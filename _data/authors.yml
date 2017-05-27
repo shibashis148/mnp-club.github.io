@@ -61,10 +61,10 @@ sahiladane:
     plus: Hitman
     
 kjanyani:
-name: Keshav Janyani
+  name: Keshav Janyani
   web: https://kjanyani.github.io
   email: kjanyani@gmail.com
-  bio:"Finding Symmetries in Life"
+  bio: "Finding Symmetries in Life"
   avatar:
   twitter:
   google:
