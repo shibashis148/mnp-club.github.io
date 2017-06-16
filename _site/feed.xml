@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://mnp-club.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://mnp-club.github.io" />
-<updated>2017-03-29T10:59:00+05:30</updated>
+<updated>2017-06-16T21:37:10+05:30</updated>
 <id>http://mnp-club.github.io/</id>
 <author>
   <name>Maths And Physics Club</name>
@@ -14,15 +14,119 @@
 
 
 <entry>
-  <title type="html"><![CDATA[Launching Summer of Science 2017]]></title>
+  <title type="html"><![CDATA[Fractals]]></title>
+  <link rel="alternate" type="text/html" href="http://mnp-club.github.io/blog/fractals/" />
+  <id>http://mnp-club.github.io/blog/fractals</id>
+  <published>2017-05-27T15:49:07+05:30</published>
+  <updated>2017-05-27T15:49:07+05:30</updated>
+  <author>
+    <name>Keshav Janyani</name>
+    <uri>http://mnp-club.github.io</uri>
+    <email>kjanyani@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Hasn’t symmetry always mesmerized you? Fractals are special objects that are symmetric with respect to scale.
+### What are Fractals?
+Fractals are beautiful mathematical patterns that are characterized by self-similarity. If a fractal pattern
+is zoomed into, the exact same pattern appears. Few popular examples are the Sierpinski Gasket and
+the Koch Snowflake.&lt;/p&gt;
+
+&lt;center&gt; &lt;iframe src=&quot;https://giphy.com/embed/JReakhhPF0eEE&quot; position=&quot;relative&quot; width=&quot;375&quot; height=&quot;416&quot; frameborder=&quot;0&quot; class=&quot;giphy-embed&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+&lt;center&gt; &lt;iframe src=&quot;https://giphy.com/embed/11Qw9rxGAYniKc&quot; position=&quot;relative&quot; bottom=&quot;416&quot; width=&quot;375&quot; height=&quot;416&quot; frameborder=&quot;0&quot; class=&quot;giphy-embed&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;/center&gt;
+
+&lt;h3 id=&quot;fractal-dimensions&quot;&gt;Fractal Dimensions&lt;/h3&gt;
+&lt;p&gt;Fractals are also unique in that Fractal Dimension is not a whole number. As an example, the length of a Koch Curve is infinite while the area is zero. Hence, the dimension of the fractal is greater than one and less than two. Fractal dimensions can also be understood as a measure for space-filing capacity of a pattern.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://fractalfoundation.org/OFCA/dimensioneg.jpg&quot; alt=&quot;Dimension example&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Let us now see an example on how to find the dimensions of a fractal: Koch Curve. Before that, consider a non-fractal object as shown and examine the pattern. If we magnify the line by a factor of r=2; its measure (length) increases to 2. If we do the same thing to a square and a cube, the measure increases
+by a factor of 4 and 8 respectively. Note that the relation N=r$^{D}$ holds, where N is the number of pieces
+(similar to r=1), r is the scaling factor and D is the dimension. Thus $D=\frac{log(N)}{log(r)}$&lt;/p&gt;
+
+&lt;p&gt;Now, let us try to apply similarly to Koch Curve:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Koch_curve.svg/621px-Koch_curve.svg.png&quot; style=&quot;width:250px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Scaling it by a factor of r=3, we get;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://drive.google.com/uc?export=view&amp;amp;id=0B5WYkNcxlIlDN3Y4MlNYdU1qcFE&quot; alt=&quot;Koch Curve size3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There are N=4 pieces of the final object similar to the object or r=1 as shown. Hence, Dimension is $\frac{log(4)}{log(3)}=1.6$
+Consider the Sierpinski Gasket&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://drive.google.com/uc?export=view&amp;amp;id=0B5WYkNcxlIlDbVdxTHlyZ2lqNFk&quot; alt=&quot;Sierpinski size1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Scale it by a factor of r=2&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://drive.google.com/uc?export=view&amp;amp;id=0B5WYkNcxlIlDNnV2WlZyaktpaEU&quot; alt=&quot;Sierpinski size2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We get N=3 pieces of the same size as that of r=1.Hence The Dimension is  $\frac{log(3)}{log(2)}=1.58$&lt;/p&gt;
+
+&lt;h3 id=&quot;fractals-in-nature&quot;&gt;Fractals in Nature&lt;/h3&gt;
+&lt;p&gt;Although perfect Fractals cannot appear in nature because if you zoom further and further, we would
+eventually reach molecules and atoms (self-similarity stops at a much higher scale) which are not similar
+to the whole fractal; approximate fractals are found in nature having self-similarity over a finite range of
+scales. Brownian motion is an example of approximate fractal. Fractals are a very efficient design for
+plants to maximize their exposure to sun and cardiovascular systems to most efficiently transport
+oxygen to all parts of the body.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://drive.google.com/uc?export=view&amp;amp;id=0B5WYkNcxlIlDVkhDUzRIX29aZWs&quot; alt=&quot;Fractals in nature&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The video below shows how fractals can appear in mathematical constructs.&lt;/p&gt;
+
+&lt;center&gt; &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/kbKtFN71Lfs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+
+&lt;p&gt;Here is a Geogebra workspace where you can fiddle around with parameters to get a fractal.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;iframe scrolling=&quot;no&quot; title=&quot;Fractals&quot; src=&quot;https://www.geogebra.org/material/iframe/id/SEZdQc37/width/800/height/600/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false&quot; width=&quot;800px&quot; height=&quot;600px&quot; style=&quot;border:0px;&quot;&gt; &lt;/iframe&gt;
+&lt;/center&gt;
+
+&lt;h3 id=&quot;mandelbrot-set&quot;&gt;Mandelbrot Set&lt;/h3&gt;
+&lt;p&gt;Mandelbrot was a French and American mathematician who referred to himself as the
+“fractalist”. He coined the word “Fractal” and is recognized for his contribution to fractal geometry. The Mandelbrot Set, one of the most famous fractals is the set obtained from
+the quadratic recurrence equation $z_{n+1}=z_n^2+C$ with $z_0=C$ ,where points C in the complex
+plane for which the orbit of zn does not tend to infinity are in the set.&lt;/p&gt;
+
+&lt;center&gt; &lt;iframe src=&quot;https://giphy.com/embed/pb0iuLS5EguxG&quot; width=&quot;480&quot; height=&quot;269&quot; frameborder=&quot;0&quot; class=&quot;giphy-embed&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;/center&gt;
+
+&lt;h3 id=&quot;why-study-fractals&quot;&gt;Why study fractals?&lt;/h3&gt;
+&lt;p&gt;“Clouds are not spheres, mountains are not cones, coastlines are not circles, and bark is not smooth, nor
+does lightning travel in a straight line.”
+― Benoît B. Mandelbrot&lt;/p&gt;
+
+&lt;p&gt;Study of Fractals has applications in a wide range of fields. Fractals are used to model natural objects
+like clouds, mountains, etc in Computer science. Fractals are used to create landscapes that are
+otherwise impossible with conventional technology in shows like Star Wars and Star trek. Fractals are
+commonly used in chaos theory as graphs of chaotic processes are fractals. Hilbert’s Space filling Curve
+and other such space-filing curves are fractals. It also finds application in Image Compressing. Certain
+algorithms are used to convert parts of images that have resemblance with other parts of the image into
+mathematical data called “fractal codes” which are used to recreate the encoded image.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://drive.google.com/uc?export=view&amp;amp;id=0B5WYkNcxlIlDOFpaZ2t2cHJEYXc&quot; alt=&quot;Computer generated fractal landscape &amp;amp; Hilbert’s Space filing Curve&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is a TED talk by Benoit Mandelbrot on” Fractals and the Art of Roughness”.&lt;/p&gt;
+
+&lt;center&gt; &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ay8OMOsf6AQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io/blog/fractals/&quot;&gt;Fractals&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io&quot;&gt;Maths & Physics Club&lt;/a&gt; on May 27, 2017.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[The Summer of Science]]></title>
   <link rel="alternate" type="text/html" href="http://mnp-club.github.io/blog/summer-of-science/" />
   <id>http://mnp-club.github.io/blog/summer-of-science</id>
   <published>2017-03-29T15:49:07+05:30</published>
   <updated>2017-03-29T15:49:07+05:30</updated>
   <author>
-    <name>Dhruv Ilesh Shah</name>
+    <name>Thariq Shanavas</name>
     <uri>http://mnp-club.github.io</uri>
-    <email>dhruv.ilesh@gmail.com</email>
+    
   </author>
   <content type="html">
     &lt;p&gt;Summer of Science is an initiative by the Maths and Physics Club, to encourage, and help discover, the joy of learning.&lt;/p&gt;
@@ -39,7 +143,7 @@
 
 &lt;p&gt;And lastly, the only prerequisite is enthusiasm. No prior knowledge on the topic is expected, and a broad topic is typically chosen at the start of the summer - the specifics can be figured out along the way!&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io/blog/summer-of-science/&quot;&gt;Launching Summer of Science 2017&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io&quot;&gt;Maths & Physics Club&lt;/a&gt; on March 29, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io/blog/summer-of-science/&quot;&gt;The Summer of Science&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io&quot;&gt;Maths & Physics Club&lt;/a&gt; on March 29, 2017.&lt;/p&gt;
   </content>
 </entry>
 

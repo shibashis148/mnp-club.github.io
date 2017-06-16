@@ -2,7 +2,15 @@
 
   
     {
-      "title"			: "Launching Summer of Science 2017",
+      "title"			: "Fractals",
+      "link"			: "http://mnp-club.github.io/blog/fractals/",
+      "excerpt"		: "Hasn’t symmetry always mesmerized you? Fractals are special objects that are symmetric with respect to scale.### What are Fractals?Fractals are beautiful mathematical patterns that are characterized by self-similarity. If a fractal patternis zoomed into, the exact same pattern appears. Few popular examples are the Sierpinski Gasket andthe Koch Snowflake."
+    }
+  
+
+  
+    ,{
+      "title"			: "The Summer of Science",
       "link"			: "http://mnp-club.github.io/blog/summer-of-science/",
       "excerpt"		: "Summer of Science is an initiative by the Maths and Physics Club, to encourage, and help discover, the joy of learning."
     }

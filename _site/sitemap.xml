@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://mnp-club.github.io/blog/fractals/</loc>
+<lastmod>2017-05-27T15:49:07+05:30</lastmod>
+</url>
+<url>
 <loc>http://mnp-club.github.io/blog/summer-of-science/</loc>
 <lastmod>2017-03-29T15:49:07+05:30</lastmod>
 </url>
@@ -32,18 +36,18 @@
 <loc>http://mnp-club.github.io/</loc>
 </url>
 <url>
-<loc>http://mnp-club.github.io/tags/</loc>
+<loc>http://mnp-club.github.io/projects/</loc>
 </url>
 <url>
-<loc>http://mnp-club.github.io/projects/</loc>
+<loc>http://mnp-club.github.io/events/</loc>
 </url>
 <url>
 <loc>http://mnp-club.github.io/blog/</loc>
 </url>
 <url>
-<loc>http://mnp-club.github.io/about/</loc>
+<loc>http://mnp-club.github.io/tags/</loc>
 </url>
 <url>
-<loc>http://mnp-club.github.io/events/</loc>
+<loc>http://mnp-club.github.io/about/</loc>
 </url>
 </urlset>
