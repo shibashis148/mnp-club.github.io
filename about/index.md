@@ -61,7 +61,28 @@ convener12:
   name: Sucheta Ravikanti
   image: convener12.jpg
   fblink: https://www.facebook.com/sucheta.ravikanti?fref=ts
-  
+member1:
+  name: Jovina Vaswani
+  image: member1.jpg
+  fblink: https://www.facebook.com/profile.php?id=100012657223963&fref=ts
+member2:
+  name: Kinjal Saxena
+  image: member2.jpg
+  fblink: https://www.facebook.com/kinjal.saxena.940?fref=ts
+member3:
+  name: Puneet Kaur
+  image: member3.jpg
+  fblink: https://www.facebook.com/puneet.kaur.756?fref=ts
+member4:
+  name: Saipriya Satyajit
+  image: member4.jpg
+  fblink: https://www.facebook.com/saipriya.satyajit?fref=ts
+member5:
+  name: Shivam Pundir
+  image: member5.jpg
+  fblink: https://www.facebook.com/shivam.pundir.5070?fref=ts
+
+
 ---
 The Maths and Physics Club of IIT Bombay, is a community to celebrate the sciences we revere in their purest of forms, undiluted and in all their grandeur. We cater to stimulate your brains with the best intellectual events, quizzes, symposiums, lectures & to keep the streak of curiosity level with knowledge by introducing you to labs in and off the campus with exquisite research work and setting you off to build your own experimental setups, funded by us.
 
