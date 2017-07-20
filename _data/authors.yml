@@ -55,17 +55,27 @@ sahiladane:
   web: https://sahiladane.github.io
   email: sahiladane@gmail.com
   bio:
-  avatar:
+  avatar: convener11.jpg
   twitter:
   google:
-    plus: Hitman
-    
+    plus: Sahil Adane
+
 kjanyani:
   name: Keshav Janyani
   web: https://kjanyani.github.io
   email: kjanyani@gmail.com
   bio: "Finding Symmetries in Life"
-  avatar:
+  avatar: convener10.jpg
   twitter:
   google:
     plus: Keshav Janyani
+
+rgoyal:
+  name: Raghav Goyal
+  web:
+  email:
+  bio:
+  avatar:
+  twitter:
+  google:
+    plus:

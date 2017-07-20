@@ -2,6 +2,14 @@
 
   
     {
+      "title"			: "Cryptography",
+      "link"			: "http://mnp-club.github.io/blog/cryptography/",
+      "excerpt"		: "Bits and Public key Systems:Bit Strings"
+    }
+  
+
+  
+    ,{
       "title"			: "Fractals",
       "link"			: "http://mnp-club.github.io/blog/fractals/",
       "excerpt"		: "Hasn’t symmetry always mesmerized you? Fractals are special objects that are symmetric with respect to scale.### What are Fractals?Fractals are beautiful mathematical patterns that are characterized by self-similarity. If a fractal patternis zoomed into, the exact same pattern appears. Few popular examples are the Sierpinski Gasket andthe Koch Snowflake."
