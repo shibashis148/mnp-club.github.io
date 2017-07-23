@@ -11,7 +11,7 @@ image:
   feature:
 date: 2017-07-21T10:19:07+00:00
 ---
-You connect your phone to a computer and a message pops up saying, "trust or don't trust this computer" what is this trust? why can you download only certified apps ? how do you get to talk over email, what makes you so sure that you can share your bank details over the internet? Raghav Goyal studies the basics of cryptography, which includes historic encryption methods from the world war II to modern times and a lot more . You can find a report of his learnings here!
+You connect your phone to a computer and a message pops up saying, "trust or don't trust this computer" What is this trust? Why can you download only certified apps ? How do you get to talk over email, what makes you so sure that you can share your bank details over the internet? Raghav Goyal studies the basics of cryptography, which includes historic encryption methods from the world war II to modern times and a lot more . You can find a report of his learnings here!
 
 
 ### Bits and Public key Systems:
