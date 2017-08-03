@@ -2,9 +2,49 @@
 
   
     {
+      "title"			: "Bazinga!!!",
+      "link"			: "http://mnp-club.github.io/events/bazinga-physics/",
+      "excerpt"		: "Bazinga Physics is a 3 round quiz where the participant have to rack their brains and use simple intuitive physics concept to solve questions. The questions can be explaining a simple everyday phenomenon to solving some mind-bending thought experiment. Join in and lets enjoy the true essence of physics."
+    }
+  
+
+  
+    ,{
+      "title"			: "Bazinga!!!",
+      "link"			: "http://mnp-club.github.io/events/bazinga-maths/",
+      "excerpt"		: "Bazinga Maths is a quiz where teams compete to solve an assortment of problems from buzzer round and challenge questions to deep thought problems. While the solutions are based on elementary concepts, they’re sure to test your creativity and challenge your reasoning skills!"
+    }
+  
+
+  
+    ,{
+      "title"			: "Physics Detective",
+      "link"			: "http://mnp-club.github.io/events/physics-detective/",
+      "excerpt"		: "A fan of Sherlock and Physics ? This is the perfect combination of the two as you use your physics’ knowledge to try to solve puzzles and riddles in a competition to see who is the true Physics Detective!"
+    }
+  
+
+  
+    ,{
+      "title"			: "Math Olympics",
+      "link"			: "http://mnp-club.github.io/events/math-olympics/",
+      "excerpt"		: "Venue : To be decided"
+    }
+  
+
+  
+    ,{
+      "title"			: "Logic GC",
+      "link"			: "http://mnp-club.github.io/events/logic-gc/",
+      "excerpt"		: "Venue : To be decided"
+    }
+  
+
+  
+    ,{
       "title"			: "Cryptography",
       "link"			: "http://mnp-club.github.io/blog/cryptography/",
-      "excerpt"		: "Bits and Public key Systems:Bit Strings"
+      "excerpt"		: "You connect your phone to a computer and a message pops up saying, “trust or don’t trust this computer” what is this trust? why can you download only certified apps ? how do you get to talk over email, what makes you so sure that you can share your bank details over the internet? Raghav Goyal studies the basics of cryptography, which includes historic encryption methods from the world war II to modern times and a lot more . You can find a report of his learnings here!"
     }
   
 
