@@ -17,10 +17,10 @@ status: Future
 A fan of Sherlock and Physics ? This is the perfect combination of the two as you use your physics' knowledge to try to solve puzzles and riddles in a competition to see who is the true Physics Detective!
 
 
-##Venue : To be decided
+### Venue : To be decided
 
-##Date: 20th September
+### Date: 20th September
 
-##Day: Wednesday
+### Day: Wednesday
 
-##Time: To be decided
+### Time: To be decided

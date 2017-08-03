@@ -16,10 +16,10 @@ status: Future
 
 
 
-##Venue : To be decided
+### Venue : To be decided
 
-##Date: 28th September
+### Date: 28th September
 
-##Day: Thursday
+### Day: Thursday
 
-##Time: To be decided
+### Time: To be decided
