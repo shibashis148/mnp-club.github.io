@@ -11,7 +11,7 @@ feature:
 date: 2017-08-04T17:59:43+00:00
 day: 10
 month: aug
-status: Nearest
+status: Finished
 ---
 
 Bazinga Maths is a quiz where teams compete to solve an assortment of problems from buzzer round and challenge questions to deep thought problems. While the solutions are based on elementary concepts, they're sure to test your creativity and challenge your reasoning skills!
