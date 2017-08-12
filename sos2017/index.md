@@ -148,7 +148,26 @@ we will be posting the projects online soon, keep visiting!
    <td> <b>Machine Learning</b><br>
    Ever wondered how does Amazon or Netflix recommend you stuff or how do market forecasting takes place or how does google sorts the websites for your search or how does speech recognition and image recognition work? In <a href="https://drive.google.com/open?id=0B06vyWvayKiINDdRLTdUbDBwQWM" target="_blank"><i> this </i></a> report,<b> Krishna Wadhwani </b>explores the concept that has taken the world by storm.
 
+   <tr>
+   <td width="50%"><a href="https://drive.google.com/open?id=0B2oRXhlX1VEKQUh0TUlTZUFvU0k" target="_blank"><img src="https://drive.google.com/uc?id=0B2oRXhlX1VEKX1lFaE5yVjlJVTA"></a>
+   <td> <b>Game Theory</b><br>
+   Over the past few decades, game theory has become an important tool to solve problems in various natural, applied and social sciences.<b> Kumaresh Ramesh</b> studies the basic concepts that go into modelling and analyzing games. Have a look at <a href="https://drive.google.com/open?id=0B2oRXhlX1VEKQUh0TUlTZUFvU0k" target="_blank"><i> his </i></a>  findings!
 
+   <tr>
+   <td width="50%"><a href="https://drive.google.com/open?id=0ByaunxiwhDlSUVBRY0NSdmZvdk0" target="_blank"><img src="https://drive.google.com/uc?id=0ByaunxiwhDlSMXFicnp0RDgwQnM"></a>
+   <td> <b>Special Relativity and Pre-requisites for General Relativity</b><br>
+   Relativity- one of the most fascinating and the least intuitive studies of all. In the early twentieth century, everyday experience and common sense were flung out of the window by Albert Einstein and what remained back turned itself into the Theory of Relativity.<b> Manu Srivastava </b> attempts to understand the mysteries of spacetime  <a href="https://drive.google.com/open?id=0ByaunxiwhDlSUVBRY0NSdmZvdk0" target="_blank"><i>  through </i></a> the relative eyes of a curious student.
+
+   <tr>
+   <td width="50%"><a href="https://drive.google.com/open?id=0B2vxskpsXkEkS1ZFNlhIaHJENW8" target="_blank"><img src="https://drive.google.com/uc?id=0B2vxskpsXkEkbHVTU2VRbjFSRWs"></a>
+   <td> <b> Special Theory of Relativity </b><br>
+  The new concepts introduced in the Special Theory of Relativity changed the whole perception of space and time drastically.The fictious time travel can now become a reality. How is it so?  <b>Mayank Sultania </b> has explored the changes and transformations, it brings to the various aspects of physics . His report can be found <a href="https://drive.google.com/open?id=0B2vxskpsXkEkS1ZFNlhIaHJENW8" target="_blank"><i> here</i></a>  
+
+   <tr>
+   <td width="50%"><a href="https://drive.google.com/open?id=0B1lF0yvVdAZAa0hVblp6RXdwWTg" target="_blank"><img src="https://drive.google.com/uc?id=0B1lF0yvVdAZASkx2TnFWLVRjdlU"></a>
+   <td> <b>Machine learning </b><br>
+   Machine learning in the recent years has grown to become one of the most prominent ways to realise the Big AI dream. What does Machine Learning have to offer us in this context?
+   <a href="https://drive.google.com/open?id=0B1lF0yvVdAZAa0hVblp6RXdwWTg" target="_blank"><i> In </i></a> this short note, <b>Myana Rukmangadh Sai </b> studies the basics of machine learning and tries to give a feel of what it is.
 
    <tr>
       <td width="50%"><a href="https://drive.google.com/open?id=0B-eOErpKeOmQM3hoRzlBU3U2VGc" target="_blank"><img src="https://drive.google.com/uc?id=0B-eOErpKeOmQb1hCWk9GVHR5cFk"></a>
@@ -197,7 +216,7 @@ The purpose of this <a href="https://drive.google.com/open?id=0B78UnIR9W-UKTmRvV
 Ever wondered how Facebook or Apple's photo application recognizes your friends in your pictures, and each time you read your email and a spam filter saves you from having to wade through tons of spam? <b>Shubham Jain</b> studies Machine Learning and its various algorithm and how it works! You can find a report of his work <a href="https://drive.google.com/open?id=0B-NCrYf_2WlAaVlCTFhqV01neGs"><i>here</i>.</a>
 
 <tr>
-      <td width="50%"><a href="https://drive.google.com/open?id=0B-wocdeozWUqSFg1NnlraGw1N1E"><img src="https://drive.google.com/open?id=0B-wocdeozWUqZER2NWVmOEJjR2c"></a>
+      <td width="50%"><a href="https://drive.google.com/open?id=0B-wocdeozWUqSFg1NnlraGw1N1E"><img src="https://drive.google.com/uc?id=0B-wocdeozWUqZER2NWVmOEJjR2c"></a>
       <td> <b>Introduction to Special Theory of Relativity </b><br>
 Special Theory of relativity deals with contractions and dilations that are not in agreement with our commonsense views of the universe. In fact, they almost appear ludicrous. Yet, there have been several observations that agree with its predictions.<b> Shubham Birange</b> explores this mind-boggling Universe in this report,which can be found <a href="https://drive.google.com/open?id=0B-wocdeozWUqSFg1NnlraGw1N1E"><i>here</i></a>!
 
