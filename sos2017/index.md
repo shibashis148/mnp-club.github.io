@@ -97,6 +97,66 @@ we will be posting the projects online soon, keep visiting!
      
 <b>Yasar Adeel Ansari</b> was fascinated by the potential interference of Artificial Intelligence into our daily lives and has studied machine learning this summer to explore that potential. Machine Learning is widely being used to solve problems that have troubled our scientific community for decades, the <a href="https://drive.google.com/open?id=0B-eOErpKeOmQM3hoRzlBU3U2VGc" target="_blank"><i>report</i></a> gives a brief description on some of those wide applications of Machine Learning.
 
+<tr>
+      <td width="50%"><a href="https://drive.google.com/open?id=0B-yB4WlILkLxWTJqQ1d4Nkl6VXM" target="_blank"><img src="https://drive.google.com/uc?id=0B-yB4WlILkLxbEhqcjBHbGJBa2M"></a>
+      <td> <b>CRISPR</b><br>
+      It might sound like a cereal brand, but CRISPR stands to be one of the biggest revolutions in genetics during our lifetime.<b> Vishal Jain</b> explores CRISPR-Cas9, a genome editing tool that’s able to “cut” DNA in a targeted fashion, allowing scientists to accurately edit the building blocks of life. The consequences are enormous, from eliminating genetic diseases to potentially creating designer babies.You can find a report of his work<a href="https://drive.google.com/open?id=0B-yB4WlILkLxWTJqQ1d4Nkl6VXM" target="_blank"><i> here</i></a>
+
+<tr>
+      <td width="50%"><a href="https://drive.google.com/open?id=0BxfS6a-65F91NERzUjd1ek01U0U" target="_blank"><img src="https://drive.google.com/uc?id=0BxfS6a-65F91cVJQYkMzVVVJdFE"></a>
+      <td> <b>Nonlinear Dynamics</b><br>
+     Nonlinear dynamics and chaos theory is a rich amalgamation of applied mathematics and physical modeling,touching the studies of turbulence,fractals,weather prediction and many more diverse topics.<b>Viraj Nadkarni</b> studies the mathematics behind this subject and explores several interesting real life models to explain its application. You can find a report of his work <a href="https://drive.google.com/open?id=0BxfS6a-65F91NERzUjd1ek01U0U" target="_blank"><i>here</i>.</a>
+
+<tr>
+      <td width="50%"><a href="https://drive.google.com/open?id=0B8KvlmERqYL_RHdMVmlCbVdLVEE" target="_blank"><img src="https://drive.google.com/uc?id=0B8KvlmERqYL_ZWRGMlIyem5fcEk"></a>
+      <td> <b>Qunatum Mechanics under Relativistic Conditions</b><br>
+  Schrodinger's equation is great, but the story doesn't end there! Fast moving electrons refuse to obey rules unless treated in a relativistic framework. <b>Vineet Punyamoorty</b> covers a review of the Special Theory of Relativity and the Klein-Gordon equation to explain quantum mechanics of spin-0 particles, under relativistic conditions. You can find a report of his work <a href="https://drive.google.com/open?id=0B8KvlmERqYL_RHdMVmlCbVdLVEE" target="_blank"><i>here</i>.</a>
+
+<tr>
+      <td width="50%"><a href="https://drive.google.com/open?id=0Bz9Q678eBzw3YkQwZkJ3aElJN1JMYkIwb3JidWxpQjJaaks0" target="_blank"><img src="https://drive.google.com/uc?id=0Bz9Q678eBzw3bGpvTUJGNkwtVVk"></a>
+      <td> <b>Abstract Algebra( Groups )</b><br>
+  Abstract algebra is a very vast and general field of mathematics. This branch deals with various algebraic structures and has immense applications due to its generality. In this <a href="https://drive.google.com/open?id=0Bz9Q678eBzw3YkQwZkJ3aElJN1JMYkIwb3JidWxpQjJaaks0" target="_blank"><i>report</i></a>, <b>Sriram Balasubramanian</b> studies one of the most basic algebraic structures- Groups. 
+
+<tr>
+      <td width="50%"><a href="https://drive.google.com/open?id=0Bzg3JYalvS-tNUt2dkhibW1CaFU" target="_blank"><img src="https://drive.google.com/uc?id=0Bzg3JYalvS-tT1U4QjYyS1hEUFE"></a>
+      <td> <b>Graph Theory </b><br>
+ Graph theory is one of the most important branches of applied mathematics.From searching planarity to the famous stable matching problem, this <a href="https://drive.google.com/open?id=0Bzg3JYalvS-tNUt2dkhibW1CaFU" target="_blank"><i>report</i></a> by <b>Soham Dibyachintan</b> explores some of the most interesting topics in this with special emphasis on the Gale- Shapley algorithm which is used by many including JoSAA. 
+
+<tr>
+      <td width="50%"><a href="https://drive.google.com/open?id=0B5KBqu2JGcDDb3FYaC1qd2RpZkE"><img src="https://drive.google.com/uc?id=0B5KBqu2JGcDDMWRNeTVhcGVIRzQ"></a>
+      <td> <b>Machine Learning and Applied Statistics </b><br>
+Various algorithms employed in Machine Learning were implemented and analysed by <b>Siddhesh Pednekar</b>. The Convolutional Neural Networks was implemented for signature recognition(forgery vs. genuinity) using Keras using Tensorflow backend.You can find a report of his work <a href="https://drive.google.com/open?id=0B5KBqu2JGcDDb3FYaC1qd2RpZkE"><i>here</i>.</a>
+
+<tr>
+      <td width="50%"><a href="https://drive.google.com/open?id=0B78UnIR9W-UKTmRvVkwyS3hYZWM"><img src="https://drive.google.com/uc?id=0B78UnIR9W-UKbDA0ZE04VlNBeWM"></a>
+      <td> <b>Fundamental of Flight </b><br>
+The purpose of this <a href="https://drive.google.com/open?id=0B78UnIR9W-UKTmRvVkwyS3hYZWM"><i>report</i></a> by <b>Shubhanshu Gupta</b> is to present the basic fundamentals of flight at the introductory level in the clearest, simplest, and most motivating way possible. First, we will learn about some basic preliminaries that are used throughout the report. Since flight vehicles spend it most of the time in atmosphere so it good to have knowledge of atmosphere and we will cover it in second phase. Then we will study some basic aerodynamics terms and how they are used in flight.
+
+<tr>
+      <td width="50%"><a href="https://drive.google.com/open?id=0B-NCrYf_2WlAaVlCTFhqV01neGs"><img src="https://drive.google.com/uc?id=0B-NCrYf_2WlAVmtNNTgyeEZHaTg"></a>
+      <td> <b>Machine Learning </b><br>
+Ever wondered how Facebook or Apple's photo application recognizes your friends in your pictures, and each time you read your email and a spam filter saves you from having to wade through tons of spam? <b>Shubham Jain</b> studies Machine Learning and its various algorithm and how it works! You can find a report of his work <a href="https://drive.google.com/open?id=0B-NCrYf_2WlAaVlCTFhqV01neGs"><i>here</i>.</a>
+
+<tr>
+      <td width="50%"><a href="https://drive.google.com/open?id=0B-wocdeozWUqSFg1NnlraGw1N1E"><img src="https://drive.google.com/uc?id=0B-wocdeozWUqZER2NWVmOEJjR2cL"></a>
+      <td> <b>Introduction to Special Theory of Relativity </b><br>
+Special Theory of relativity deals with contractions and dilations that are not in agreement with our commonsense views of the universe. In fact, they almost appear ludicrous. Yet, there have been several observations that agree with its predictions.<b> Shubham Birange</b> explores this mind-boggling Universe in this report,which can be found <a href="https://drive.google.com/open?id=0B-wocdeozWUqSFg1NnlraGw1N1E"><i>here</i></a>!
+
+<tr>
+      <td width="50%"><a href="https://drive.google.com/open?id=0B6R_q_x4FUUdRHY0NUVfeFJ2bmM"><img src="https://drive.google.com/uc?id=0B6R_q_x4FUUdS19OQlF5bmVWeFk"></a>
+      <td> <b>Quantum Computation and Information </b><br>
+Quantum computation and Information has brought a new computational definition about physics over thinking physically about computation. <b>Shivam Pundir</b> studied the 'magic' of Quantum Mechanics to understand the concepts like Quantum Teleportation, Quantum Parallelism, along with various Quantum Algorithms.You can find a report of his work <a href="https://drive.google.com/open?id=0B6R_q_x4FUUdRHY0NUVfeFJ2bmM"><i>here</i>.</a>
+
+<tr>
+      <td width="50%"><a href="https://drive.google.com/open?id=0B0w2gABzkVusQ3A5eUk4aE50YXM"><img src="https://drive.google.com/uc?id=0B0w2gABzkVusWTJPYnR1WWxZR00"></a>
+      <td> <b>Machine Learning</b><br>
+Machine learning is becoming widespread and organizations are using it in a variety of ways, including improving cyber security, enhancing recommendation engines, and optimizing self-driving cars. <b>Sanjog Joshi</b> studies the basic algorithms and applications of Machine learning. You can find report of his learnings <a href="https://drive.google.com/open?id=0B0w2gABzkVusQ3A5eUk4aE50YXM"><img src="https://drive.google.com/uc?id=0B0w2gABzkVusWTJPYnR1WWxZR00"><i>here</i></a>!
+
+<tr>
+      <td width="50%"><a href="https://drive.google.com/open?id=0B-eOErpKeOmQeWIyeXVPYjlNMU0"><img src="https://drive.google.com/uc?id=0B-eOErpKeOmQR2VRNWpDZkZZWlE"></a>
+      <td> <b>Quantum Computing</b><br>
+In a world where we are relying increasingly on computing, to share our information and store our most precious data, the idea of living without computers might baffle most people. We are doing nice in world of computers but can we do better ? answer is yes we just need a quantum Computer.
+<b>Saipriya Satyajit</b> studies basics of Quantum Computing and all that has been the state of art in this field.You can find a report of his learnings <a href="https://drive.google.com/open?id=0B-eOErpKeOmQeWIyeXVPYjlNMU0"><i>here.</i></a>
 
 
 </table>
