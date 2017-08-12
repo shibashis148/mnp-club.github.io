@@ -138,7 +138,7 @@ The purpose of this <a href="https://drive.google.com/open?id=0B78UnIR9W-UKTmRvV
 Ever wondered how Facebook or Apple's photo application recognizes your friends in your pictures, and each time you read your email and a spam filter saves you from having to wade through tons of spam? <b>Shubham Jain</b> studies Machine Learning and its various algorithm and how it works! You can find a report of his work <a href="https://drive.google.com/open?id=0B-NCrYf_2WlAaVlCTFhqV01neGs"><i>here</i>.</a>
 
 <tr>
-      <td width="50%"><a href="https://drive.google.com/open?id=0B-wocdeozWUqSFg1NnlraGw1N1E"><img src="https://drive.google.com/uc?id=0B-wocdeozWUqZER2NWVmOEJjR2cL"></a>
+      <td width="50%"><a href="https://drive.google.com/open?id=0B-wocdeozWUqSFg1NnlraGw1N1E"><img src="https://drive.google.com/open?id=0B-wocdeozWUqZER2NWVmOEJjR2c"></a>
       <td> <b>Introduction to Special Theory of Relativity </b><br>
 Special Theory of relativity deals with contractions and dilations that are not in agreement with our commonsense views of the universe. In fact, they almost appear ludicrous. Yet, there have been several observations that agree with its predictions.<b> Shubham Birange</b> explores this mind-boggling Universe in this report,which can be found <a href="https://drive.google.com/open?id=0B-wocdeozWUqSFg1NnlraGw1N1E"><i>here</i></a>!
 
@@ -150,7 +150,7 @@ Quantum computation and Information has brought a new computational definition a
 <tr>
       <td width="50%"><a href="https://drive.google.com/open?id=0B0w2gABzkVusQ3A5eUk4aE50YXM"><img src="https://drive.google.com/uc?id=0B0w2gABzkVusWTJPYnR1WWxZR00"></a>
       <td> <b>Machine Learning</b><br>
-Machine learning is becoming widespread and organizations are using it in a variety of ways, including improving cyber security, enhancing recommendation engines, and optimizing self-driving cars. <b>Sanjog Joshi</b> studies the basic algorithms and applications of Machine learning. You can find report of his learnings <a href="https://drive.google.com/open?id=0B0w2gABzkVusQ3A5eUk4aE50YXM"><img src="https://drive.google.com/uc?id=0B0w2gABzkVusWTJPYnR1WWxZR00"><i>here</i></a>!
+Machine learning is becoming widespread and organizations are using it in a variety of ways, including improving cyber security, enhancing recommendation engines, and optimizing self-driving cars. <b>Sanjog Joshi</b> studies the basic algorithms and applications of Machine learning. You can find report of his learnings <a href="https://drive.google.com/open?id=0B0w2gABzkVusQ3A5eUk4aE50YXM"><i>here</i></a>!
 
 <tr>
       <td width="50%"><a href="https://drive.google.com/open?id=0B-eOErpKeOmQeWIyeXVPYjlNMU0"><img src="https://drive.google.com/uc?id=0B-eOErpKeOmQR2VRNWpDZkZZWlE"></a>
