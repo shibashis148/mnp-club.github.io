@@ -92,7 +92,7 @@ we will be posting the projects online soon, keep visiting!
    The field of finance can prove to be quite difficult to comprehend, but use of mathematical and computational models can make the analysis simpler. How can mathematics help uncover profitable strategies in the stock market ? <b>Archiki Prasad </b> studies the basic financial strategies using mathematical tools for the evaluation of stock markets right <a href="https://drive.google.com/open?id=0Byy6C_ctxnAdSU0wMk1iUnlHXzQ" target="_blank"><i> here </i></a>
    
    <tr>
-      <td width="50%"><a href="https://drive.google.com/open?id=0B-eOErpKeOmQM3hoRzlBU3U2VGc" target="_blank"><img src="https://drive.google.com/open?id=0B-eOErpKeOmQb1hCWk9GVHR5cFk"></a>
+      <td width="50%"><a href="https://drive.google.com/open?id=0B-eOErpKeOmQM3hoRzlBU3U2VGc" target="_blank"><img src="https://drive.google.com/uc?id=0B-eOErpKeOmQb1hCWk9GVHR5cFk"></a>
       <td> <b>Machine Learning</b><br>
      
 <b>Yasar Adeel Ansari</b> was fascinated by the potential interference of Artificial Intelligence into our daily lives and has studied machine learning this summer to explore that potential. Machine Learning is widely being used to solve problems that have troubled our scientific community for decades, the <a href="https://drive.google.com/open?id=0B-eOErpKeOmQM3hoRzlBU3U2VGc" target="_blank"><i>report</i></a> gives a brief description on some of those wide applications of Machine Learning.
