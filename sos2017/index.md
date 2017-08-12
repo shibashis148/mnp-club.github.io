@@ -90,11 +90,70 @@ we will be posting the projects online soon, keep visiting!
    <td width="50%"><a href="https://drive.google.com/open?id=0Byy6C_ctxnAdSU0wMk1iUnlHXzQ" target="_blank"><img src="https://drive.google.com/uc?id=0Byy6C_ctxnAdalFMY1hlMEUzTGs"></a>
    <td> <b>Mathmatical Finance </b><br>
    The field of finance can prove to be quite difficult to comprehend, but use of mathematical and computational models can make the analysis simpler. How can mathematics help uncover profitable strategies in the stock market ? <b>Archiki Prasad </b> studies the basic financial strategies using mathematical tools for the evaluation of stock markets right <a href="https://drive.google.com/open?id=0Byy6C_ctxnAdSU0wMk1iUnlHXzQ" target="_blank"><i> here </i></a>
+
+   <tr>
+   <td width="50%"><a href="https://drive.google.com/open?id=0ByHi66nifaLZc21TeEt1RkFoLVE" target="_blank"><img src="https://drive.google.com/uc?id=0ByHi66nifaLZZVZGM1BBRFVLSFU"></a>
+   <td> <b>Special Theory of Relativity </b><br>
+   How do the laws of physics transform in the high-speed regime? What seemingly weird effects unfurl as we go closer to the speed of light? In this report,<b> A. S. V. Kireeti </b> lays out the details of the famed Einstein's special relativity in  <a href="https://drive.google.com/open?id=0ByHi66nifaLZc21TeEt1RkFoLVE" target="_blank"><i> this </i></a> report
+
+   <tr>
+   <td width="50%"><a href="https://drive.google.com/open?id=0B1eeAcosneKFc3RhSklXa2ROeE0" target="_blank"><img src="https://drive.google.com/uc?id=0B1eeAcosneKFVDVQNzNhRk9mQTQ"></a>
+   <td> <b>Coordination compounds and their chemistry </b><br>
+   From hemoglobin in our blood to the photography we do, everywhere coordination compounds have a role to play. This summer  <b>Bhavya Garg </b> tried to learn about them in depth and enjoyed the experience.<a href="https://drive.google.com/open?id=0B1eeAcosneKFc3RhSklXa2ROeE0" target="_blank"><i> This </i></a> is her report
+
+   <tr>
+   <td width="50%"><a href="https://drive.google.com/open?id=0B7JYdVhk7dCnVFpKQWtodmg0bVk" target="_blank"><img src="https://drive.google.com/uc?id=0B7JYdVhk7dCndlpWcy1wZmhiMHc"></a>
+   <td> <b>Probability and Statistics</b><br>
+   Everything in real world is random. So to analyze different systems in our real life, we need theory of probability and statistics. <b>Chhavi Sharma </b> explores some basics of probability and statistics in  <a href="https://drive.google.com/open?id=0B7JYdVhk7dCnVFpKQWtodmg0bVk" target="_blank"><i> this </i></a> report.
+
+   <tr>
+   <td width="50%"><a href="https://drive.google.com/open?id=0B1wyCYJMbmMPa1VRMzFNUkJqbkU" target="_blank"><img src="https://drive.google.com/uc?id=0B1wyCYJMbmMPelhoTklIY3NjRVU"></a>
+   <td> <b>Molecular Motor simulations</b><br>
+   Everything in real world is random. So to analyze different systems in our real life, we need theory of probability and statistics. <b>Chhavi Sharma </b> explores some basics of probability and statistics in  <a href="https://drive.google.com/open?id=0B1wyCYJMbmMPa1VRMzFNUkJqbkU" target="_blank"><i> this </i></a> report.
+
+   <tr>
+   <td width="50%"><a href="https://drive.google.com/open?id=0B5_YoYi9y8_tSTlLX3ctWVQ1NnM" target="_blank"><img src="https://drive.google.com/uc?id=0B5_YoYi9y8_tUkFJbEZSRll5U0U"></a>
+   <td> <b>Astronomy</b><br>
+   Have you ever wondered how the essential components we require for our life are transported in the cells? How is the flow of building material regulated inside the cell? <b>Debanjali Chatterjee</b> delves into the microscopic highways of our body and explores the functioning of motor proteins and the cytoskeleton. You can find a report of her learnings <a href="https://drive.google.com/open?id=0B5_YoYi9y8_tSTlLX3ctWVQ1NnM" target="_blank"><i> here! </i></a>
+
+   <tr>
+   <td width="50%"><a href="https://drive.google.com/open?id=0B-eOErpKeOmQVVpDT2dnV201MEE" target="_blank"><img src="https://drive.google.com/uc?id=0B-eOErpKeOmQU21NbkJSRnhLSDQ"></a>
+   <td> <b>Cosmology</b><br>
+   Join <b>Hrithik Diwakar </b> in his pursuit for understanding the evolution of the universe from the Big Bang to now and on into the future  <a href="https://drive.google.com/open?id=0B-eOErpKeOmQVVpDT2dnV201MEE" target="_blank"><i> here </i></a>. Discover modern ideas and mysteries that await human enlightenment.
+
+   <tr>
+   <td width="50%"><a href="https://drive.google.com/open?id=0BzHSbZTjPCGwMzE2NDdaYTJrMWs" target="_blank"><img src="https://drive.google.com/uc?id=0BzHSbZTjPCGwUUlVY3BvanNUb1U"></a>
+   <td> <b>Non-linear Dynamics</b><br>
+   While studying biophysics and molecular motors<b> Jovina Vaswani</b> , stumbled upon the equations governing the dynamics of it. This newfound discovery of her's fascinated me more than her previous topic of research and here is a compilation of <a href="https://drive.google.com/open?id=0BzHSbZTjPCGwMzE2NDdaYTJrMWs" target="_blank"><i>her </i></a>  learnings
+
+   <tr>
+   <td width="50%"><a href="https://drive.google.com/open?id=0B5WYkNcxlIlDdnBWbjdDWEZYQTg" target="_blank"><img src="https://drive.google.com/uc?id=0B5WYkNcxlIlDTmN3eUZNMDVocjQ"></a>
+   <td> <b>Quantum Computing</b><br>
+   Quantum Computing has emerged as an exciting field of research for both physicists and computer scientists. Can we achieve what a classical modern computer will never be able to? The basic introduction to quantum computing and logic was studied by <b>Keshav Janyani</b> and you can find the report <a href="https://drive.google.com/open?id=0B5WYkNcxlIlDdnBWbjdDWEZYQTg" target="_blank"><i>  here. </i></a>
+
+   <tr>
+   <td width="50%"><a href="https://drive.google.com/open?id=0B2Kr-5R1V-dnakp2YV9jdnpISFU" target="_blank"><img src="https://drive.google.com/uc?id=0B2Kr-5R1V-dnOWozUTZZTXFUOWM"></a>
+   <td> <b>Machine Learning</b><br>
+   " A breakthrough in machine learning would be worth ten Microsofts. "- Bill Gates.
+   In today's world, machine learning plays a major role ranging from cyber security to bank transactions or the virtual assistants in today's mobile phones. So <b> Kinjal Saxena </b> tried learning the basic algorithms which goes into such a vast subject and <a href="https://drive.google.com/open?id=0B2Kr-5R1V-dnakp2YV9jdnpISFU" target="_blank"><i> this </i></a> is what she learnt.
+
+
+   <tr>
+   <td width="50%"><a href="https://drive.google.com/open?id=0B5erndQqd4joaU5qWFdGV0N4cFk" target="_blank"><img src="https://drive.google.com/uc?id=0B5erndQqd4joU3FTLVptSmdrODA"></a>
+   <td> <b>Special Theory of Relativity</b><br>
+   Einstein in STR approached towards different conventional problems at his time from a completely different angle. He suspected time, his theory replaced conventional notion of an absolute universal time. Want to know why moving clocks runs slow? So in that case <a href="https://drive.google.com/open?id=0B5erndQqd4joaU5qWFdGV0N4cFk" target="_blank"><i> this </i></a> report by <b>Kratvesh Pandey</b> is ideal for you.
+
+   <tr>
+   <td width="50%"><a href="https://drive.google.com/open?id=0B06vyWvayKiINDdRLTdUbDBwQWM" target="_blank"><img src="https://drive.google.com/uc?id=0B06vyWvayKiIYlJ4VU4zY3Bja0U"></a>
+   <td> <b>Machine Learning</b><br>
+   Ever wondered how does Amazon or Netflix recommend you stuff or how do market forecasting takes place or how does google sorts the websites for your search or how does speech recognition and image recognition work? In <a href="https://drive.google.com/open?id=0B06vyWvayKiINDdRLTdUbDBwQWM" target="_blank"><i> this </i></a> report,<b> Krishna Wadhwani </b>explores the concept that has taken the world by storm.
+
    
+
    <tr>
       <td width="50%"><a href="https://drive.google.com/open?id=0B-eOErpKeOmQM3hoRzlBU3U2VGc" target="_blank"><img src="https://drive.google.com/uc?id=0B-eOErpKeOmQb1hCWk9GVHR5cFk"></a>
       <td> <b>Machine Learning</b><br>
-     
+
 <b>Yasar Adeel Ansari</b> was fascinated by the potential interference of Artificial Intelligence into our daily lives and has studied machine learning this summer to explore that potential. Machine Learning is widely being used to solve problems that have troubled our scientific community for decades, the <a href="https://drive.google.com/open?id=0B-eOErpKeOmQM3hoRzlBU3U2VGc" target="_blank"><i>report</i></a> gives a brief description on some of those wide applications of Machine Learning.
 
 <tr>
@@ -115,12 +174,12 @@ we will be posting the projects online soon, keep visiting!
 <tr>
       <td width="50%"><a href="https://drive.google.com/open?id=0Bz9Q678eBzw3YkQwZkJ3aElJN1JMYkIwb3JidWxpQjJaaks0" target="_blank"><img src="https://drive.google.com/uc?id=0Bz9Q678eBzw3bGpvTUJGNkwtVVk"></a>
       <td> <b>Abstract Algebra( Groups )</b><br>
-  Abstract algebra is a very vast and general field of mathematics. This branch deals with various algebraic structures and has immense applications due to its generality. In this <a href="https://drive.google.com/open?id=0Bz9Q678eBzw3YkQwZkJ3aElJN1JMYkIwb3JidWxpQjJaaks0" target="_blank"><i>report</i></a>, <b>Sriram Balasubramanian</b> studies one of the most basic algebraic structures- Groups. 
+  Abstract algebra is a very vast and general field of mathematics. This branch deals with various algebraic structures and has immense applications due to its generality. In this <a href="https://drive.google.com/open?id=0Bz9Q678eBzw3YkQwZkJ3aElJN1JMYkIwb3JidWxpQjJaaks0" target="_blank"><i>report</i></a>, <b>Sriram Balasubramanian</b> studies one of the most basic algebraic structures- Groups.
 
 <tr>
       <td width="50%"><a href="https://drive.google.com/open?id=0Bzg3JYalvS-tNUt2dkhibW1CaFU" target="_blank"><img src="https://drive.google.com/uc?id=0Bzg3JYalvS-tT1U4QjYyS1hEUFE"></a>
       <td> <b>Graph Theory </b><br>
- Graph theory is one of the most important branches of applied mathematics.From searching planarity to the famous stable matching problem, this <a href="https://drive.google.com/open?id=0Bzg3JYalvS-tNUt2dkhibW1CaFU" target="_blank"><i>report</i></a> by <b>Soham Dibyachintan</b> explores some of the most interesting topics in this with special emphasis on the Gale- Shapley algorithm which is used by many including JoSAA. 
+ Graph theory is one of the most important branches of applied mathematics.From searching planarity to the famous stable matching problem, this <a href="https://drive.google.com/open?id=0Bzg3JYalvS-tNUt2dkhibW1CaFU" target="_blank"><i>report</i></a> by <b>Soham Dibyachintan</b> explores some of the most interesting topics in this with special emphasis on the Gale- Shapley algorithm which is used by many including JoSAA.
 
 <tr>
       <td width="50%"><a href="https://drive.google.com/open?id=0B5KBqu2JGcDDb3FYaC1qd2RpZkE"><img src="https://drive.google.com/uc?id=0B5KBqu2JGcDDMWRNeTVhcGVIRzQ"></a>
