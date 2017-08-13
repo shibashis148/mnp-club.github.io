@@ -236,5 +236,45 @@ Machine learning is becoming widespread and organizations are using it in a vari
 In a world where we are relying increasingly on computing, to share our information and store our most precious data, the idea of living without computers might baffle most people. We are doing nice in world of computers but can we do better ? answer is yes we just need a quantum Computer.
 <b>Saipriya Satyajit</b> studies basics of Quantum Computing and all that has been the state of art in this field.You can find a report of his learnings <a href="https://drive.google.com/open?id=0B-eOErpKeOmQeWIyeXVPYjlNMU0"><i>here.</i></a>
 
+<tr>
+      <td width="50%"><a href="https://drive.google.com/open?id=0B6jTLkxPWj1DamRJdDl5cVRRT2M"><img src="https://drive.google.com/uc?id=0B-eOErpKeOmQaXRXUmlFN3RXTGs"></a>
+      <td> <b>Introduction to quantum mechanics and condensed state physics</b><br>
+In this work , <b>Sahasrajit Sarmasarkar</b> has basically explored the basics and origin of quantum mechanics.Also mathematical modelling has been discussed.In the end Kronig Penney model has also been covered.You can find a report of his learnings <a href="https://drive.google.com/open?id=0B6jTLkxPWj1DamRJdDl5cVRRT2M"><i>here.</i></a>
+<tr>
+      <td width="50%"><a href="https://drive.google.com/open?id=0B82-MoIBc2nISTB1Y1EwMHFLQVU"><img src="https://drive.google.com/uc?id=0B82-MoIBc2nIQVdPdHJkeU93bDA"></a>
+      <td> <b>Cosmology</b><br>
+Our position in this world is not more than a dust particle & history of entire man-kind is nothing in comparison to history of universe. In this report on cosmology, <b>Riya</b> is trying to explore why the universe is like this. How did it develops, what is its history & what will be its fate?
+You can find a report of her learnings <a href="https://drive.google.com/open?id=0B82-MoIBc2nISTB1Y1EwMHFLQVU"><i>here.</i></a>
+<tr>
+      <td width="50%"><a href="https://drive.google.com/open?id=0B-eOErpKeOmQNFN4dDlIM0ZPMUE"><img src="https://drive.google.com/uc?id=0B-eOErpKeOmQTE5HWVNNSG4waVE"></a>
+      <td> <b>Abstract Algebra (group theory and different kind of groups)</b><br>
+The mathematics of group theory has always been so interesting and the roots of this theory is linear algebra (Matrices). <b>Rahul Punia</b> explores various ways to explain group theory and different kind of groups .You can find a report of his learnings <a href="https://drive.google.com/open?id=0B-eOErpKeOmQNFN4dDlIM0ZPMUE"><i>here!</i></a>
+<tr>
+      <td width="50%"><a href="https://drive.google.com/open?id=0B807zzBvDWiHdXNzR3loX0hqWkE"><img src="https://drive.google.com/uc?id=0B807zzBvDWiHbGJsNV9YV1o5Nzg"></a>
+      <td> <b>Cryptography</b><br>
+You connect your phone to a computer and a message pops up saying, "trust or don't trust this computer" what is this trust? why can you download only certified apps ? how do you get to talk over email, what makes you so sure that you can share your bank details over the internet? <b>Raghav Goyal</b> studies the basics of cryptography, which includes historic encryption methods from the world war II to modern times and a lot more . You can find a report of his learnings <a href="https://drive.google.com/open?id=0B807zzBvDWiHdXNzR3loX0hqWkE"><i>here</i></a>!!
+<tr>
+      <td width="50%"><a href="https://drive.google.com/open?id=0ByXqBWBGwQQGdHVvSjk5T3hhUG8"><img src="https://drive.google.com/uc?id=0ByXqBWBGwQQGelU3bm9uQm1IX1U"></a>
+      <td> <b>Special Theory of Relativity</b><br>
+This <a href="https://drive.google.com/open?id=0ByXqBWBGwQQGdHVvSjk5T3hhUG8"><i>report</i></a>, prepared by <b>Pratyush Ragini</b> tells how length and time interval change when speeds get higher and closer to c and how to perceive these changes diagramatically.
+<tr>
+      <td width="50%"><a href="https://drive.google.com/open?id=0BzhwEK81oo65aGR0NTVhVW9BakE"><img src="https://drive.google.com/uc?id=0BzhwEK81oo65NWpwV0dzTVE4X0k"></a>
+      <td> <b>Transformation of Space-Time co-ordinates:Inertial frames </b><br>
+Did you ever ponder over the impact on our notions, if nature dictates constancy of a finite velocity over all inertial frames? <b>Prasanth YSS</b> looks into this part of 'relativity'.You can find a report of his learnings <a href="https://drive.google.com/open?id=0BzhwEK81oo65aGR0NTVhVW9BakE"><i>here.</i></a>
+<tr>
+      <td width="50%"><a href="https://drive.google.com/open?id=0Byxrg7sNUkzhQTlQd21JMVRwdFk"><img src="https://drive.google.com/uc?id=0Byxrg7sNUkzhQkNpd2ZLblRkLU0"></a>
+      <td> <b>Laser Isotope Separation</b><br>
+This narrow beam of light is capable of separating a desired isotope of chemical element from other isotopes; one of the toughest scientific challenges. <b>Parnashri Wankhede</b> explores the fascinating world of Lasers, her learnings can be found <a href="https://drive.google.com/open?id=0Byxrg7sNUkzhQTlQd21JMVRwdFk"><i>here</i></a>!
+<tr>
+      <td width="50%"><a href="https://drive.google.com/open?id=0B-eOErpKeOmQekJiUHFVQ3JsNmc"><img src="https://drive.google.com/uc?id=0B-skkZTk0XWvSkVqZUZrM3dPU1k"></a>
+      <td> <b>Machine Learning</b><br>
+Algorithms in machine learning and some applications covering analysis of each rigorously. Learning how to perform data mining, clustering using supervised unsupervised learning algorithms. <b>Naman Jain</b> studies explores the growing field of machine learning. You can find a report of his learnings <a href="https://drive.google.com/open?id=0B-eOErpKeOmQekJiUHFVQ3JsNmc"><i>here.</i></a>
+<tr>
+
+<tr>
+      <td width="50%"><a href="https://drive.google.com/open?id=0BziUHdXe9owLN3VzUG55TGJOWm8"><img src="https://drive.google.com/uc?id=0BziUHdXe9owLa1VlejJTSlVJM2c"></a>
+      <td> <b>Mathematical Finance</b><br>
+In the recent past, the options market has been the inspiration for many movies based on overnight rags-to-riches stories. Investments in these markets has been increasing exponentially. <b>Sahil Shah</b> studies the mathematical basis behind the pricing of these financial devices.
+You can find a report of his learnings <a href="https://drive.google.com/open?id=0BziUHdXe9owLN3VzUG55TGJOWm8"><i>here.</i></a>
 
 </table>
