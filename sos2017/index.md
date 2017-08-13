@@ -109,12 +109,13 @@ we will be posting the projects online soon, keep visiting!
    <tr>
    <td width="50%"><a href="https://drive.google.com/open?id=0B1wyCYJMbmMPa1VRMzFNUkJqbkU" target="_blank"><img src="https://drive.google.com/uc?id=0B1wyCYJMbmMPelhoTklIY3NjRVU"></a>
    <td> <b>Molecular Motor simulations</b><br>
-   Everything in real world is random. So to analyze different systems in our real life, we need theory of probability and statistics. <b>Debanjali Chatterjee</b> explores some basics of probability and statistics in  <a href="https://drive.google.com/open?id=0B1wyCYJMbmMPa1VRMzFNUkJqbkU" target="_blank"><i> this </i></a> report.
+   Have you ever wondered how the essential components we require for our life are transported in the cells? How is the flow of building material regulated inside the cell? <b>Debanjali Chatterjee</b> delves into the microscopic highways of our body and explores the functioning of motor proteins and the cytoskeleton. You can find a report of her learnings <a href="https://drive.google.com/open?id=0B1wyCYJMbmMPa1VRMzFNUkJqbkU" target="_blank"><i>here</i></a>!
 
    <tr>
    <td width="50%"><a href="https://drive.google.com/open?id=0B5_YoYi9y8_tSTlLX3ctWVQ1NnM" target="_blank"><img src="https://drive.google.com/uc?id=0B5_YoYi9y8_tUkFJbEZSRll5U0U"></a>
    <td> <b>Astronomy</b><br>
-   Have you ever wondered how the essential components we require for our life are transported in the cells? How is the flow of building material regulated inside the cell? <b>Himani Gangurde</b> delves into the microscopic highways of our body and explores the functioning of motor proteins and the cytoskeleton. You can find a report of her learnings <a href="https://drive.google.com/open?id=0B5_YoYi9y8_tSTlLX3ctWVQ1NnM" target="_blank"><i> here! </i></a>
+  What we observe in the night sky, is it just stars and galaxies and planets? What is space made of? How did we living beings came into existence? <b>Himani Gangurde</b> studies and writes the basic concepts and theories of astronomy.You can find a report of her learnings <a href="https://drive.google.com/open?id=0B5_YoYi9y8_tSTlLX3ctWVQ1NnM" target="_blank"><i>here.</i></a>
+
 
    <tr>
    <td width="50%"><a href="https://drive.google.com/open?id=0B-eOErpKeOmQVVpDT2dnV201MEE" target="_blank"><img src="https://drive.google.com/uc?id=0B-eOErpKeOmQU21NbkJSRnhLSDQ"></a>
@@ -159,7 +160,7 @@ we will be posting the projects online soon, keep visiting!
    Relativity- one of the most fascinating and the least intuitive studies of all. In the early twentieth century, everyday experience and common sense were flung out of the window by Albert Einstein and what remained back turned itself into the Theory of Relativity.<b> Manu Srivastava </b> attempts to understand the mysteries of spacetime  <a href="https://drive.google.com/open?id=0ByaunxiwhDlSUVBRY0NSdmZvdk0" target="_blank"><i>  through </i></a> the relative eyes of a curious student.
 
    <tr>
-   <td width="50%"><a href="https://drive.google.com/open?id=0B2vxskpsXkEkS1ZFNlhIaHJENW8" target="_blank"><img src="https://drive.google.com/uc?id=0B2vxskpsXkEkbHVTU2VRbjFSRWs"></a>
+   <td width="50%"><a href="https://drive.google.com/open?id=0B2vxskpsXkEkS1ZFNlhIaHJENW8" target="_blank"><img src="https://ichef.bbci.co.uk/images/ic/480x270/p0386f3y.jpg"></a>
    <td> <b> Special Theory of Relativity </b><br>
   The new concepts introduced in the Special Theory of Relativity changed the whole perception of space and time drastically.The fictious time travel can now become a reality. How is it so?  <b>Mayank Sultania </b> has explored the changes and transformations, it brings to the various aspects of physics . His report can be found <a href="https://drive.google.com/open?id=0B2vxskpsXkEkS1ZFNlhIaHJENW8" target="_blank"><i> here</i></a>  
 
