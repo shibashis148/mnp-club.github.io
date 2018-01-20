@@ -2,6 +2,14 @@
 
   
     {
+      "title"			: "Sci-Comp Blitz",
+      "link"			: "http://mnp-club.github.io/events/sci-comp/",
+      "excerpt"		: "The Maths and Physics Club is back with its new ‘Sci Comp Blitz’, where science and computation coalesce. Get a first hand experience of how computation is used in different sciences to push the boundaries of our knowledge."
+    }
+  
+
+  
+    ,{
       "title"			: "Bazinga!!!",
       "link"			: "http://mnp-club.github.io/events/bazinga-physics/",
       "excerpt"		: "Bazinga Physics is a 3 round quiz where the participant have to rack their brains and use simple intuitive physics concept to solve questions. The questions can be explaining a simple everyday phenomenon to solving some mind-bending thought experiment. Join in and lets enjoy the true essence of physics."
