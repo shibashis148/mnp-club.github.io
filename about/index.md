@@ -38,7 +38,7 @@ convener6:
   image: convener6.jpg
   fblink: https://www.facebook.com/toshi.physics?fref=ts
 convener7:
-  name: Abhisek sdfsdfdsfsdf
+  name: Abhisek Sahu
   image: convener7.jpg
   fblink: https://www.facebook.com/abhisek.sahu.141?fref=ts
 convener8:
@@ -61,6 +61,10 @@ convener12:
   name: Sucheta Ravikanti
   image: convener12.jpg
   fblink: https://www.facebook.com/sucheta.ravikanti?fref=ts
+convener13:
+  name: Guru Kalyan
+  image: convener11.jpg
+  fblink: https://www.facebook.com/profile.php?id=100001259345949&fref=ts
 member1:
   name: Jovina Vaswani
   image: member1.jpg
