@@ -38,7 +38,7 @@ convener6:
   image: convener6.jpg
   fblink: https://www.facebook.com/toshi.physics?fref=ts
 convener7:
-  name: Abhisek Sahu
+  name: Abhisek 
   image: convener7.jpg
   fblink: https://www.facebook.com/abhisek.sahu.141?fref=ts
 convener8:
