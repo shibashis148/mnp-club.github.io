@@ -6,7 +6,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: About_img.png
 manager2:
-  name: Sandesh Klantre
+  name: Sandesh Kalantre
   image: manager2.jpg
   fblink: https://www.facebook.com/sandesh.kalantre?fref=ts
 manager1:
