@@ -42,7 +42,7 @@ convener7:
   image: convener7.jpg
   fblink: https://www.facebook.com/abhisek.sahu.141?fref=ts
 convener8:
-  name: Harsh Jain
+  name: Harish Jain
   image: convener8.jpg
   fblink: https://www.facebook.com/harsh.baid2?fref=ts
 convener9:
