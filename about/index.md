@@ -5,6 +5,34 @@ excerpt: "Maths And Physics Club is"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: About_img.png
+convener17:
+  name: Aryaman Maithani
+  image: convener17.jpg
+  fblink: https://www.facebook.com/aryaman.maithani
+convener16:
+  name: Saanika Choudhary
+  image: convener16.jpg
+  fblink: https://www.facebook.com/profile.php?id=100003112324282
+convener15:
+  name: Smit Solanki
+  image: convener15.jpg
+  fblink: https://www.facebook.com/smit.solanki.334
+convener14:
+  name: Ayush Raj
+  image: convener14.jpg
+  fblink: https://www.facebook.com/profile.php?id=100027610513130
+convener13:
+  name: Deep Satra
+  image: convener13.jpg
+  fblink: https://www.facebook.com/deep.satra.16
+manager4:
+  name: Ajinkya Werulkar 
+  image: manager4.jpg
+  fblink: https://www.facebook.com/ajwerulkar
+manager3:
+  name: Guru Kalyan
+  image: manager3.jpg
+  fblink: https://www.facebook.com/gurukalyan.jayasingh
 manager2:
   name: Sandesh Kalantre
   image: manager2.jpg
@@ -61,10 +89,6 @@ convener12:
   name: Sucheta Ravikanti
   image: convener12.jpg
   fblink: https://www.facebook.com/sucheta.ravikanti?fref=ts
-convener13:
-  name: Guru Kalyan
-  image: convener11.jpg
-  fblink: https://www.facebook.com/profile.php?id=100001259345949&fref=ts
 member1:
   name: Jovina Vaswani
   image: member1.jpg
