@@ -622,7 +622,7 @@ No matter which programming language you program in, if you want to be able to b
 The rising awareness  among people has led to increased use of solar cells in everyday life. Be it calculators, street lamps, solar water heater or even supplying power to the utility grid, solar cells have been aiding conventional resources in energy generation. Chaitanya Kolhe studies the  physics behind  solar photovoltaic cells and how to design a grid-connected PV system using them
 	<tr>
 		<td width="50%"><a href="https://drive.google.com/open?id=1kbynu0fc_UmUoJvuluodvjX52gy7Bacu" target="_blank"><img src="https://drive.google.com/uc?id=1iYGZNcMRssCc3G_Z4-1jD0DuiN6pleZF"></a>
-		<td> <a href="https://drive.google.com/open?id=1kbynu0fc_UmUoJvuluodvjX52gy7Bacu" target="_blank"><b>Special Theory of Relativity</b></a><br>
+		<td> <a href="https://drive.google.com/open?id=1j6MxPSKuuAZwevdPo0RHr3hvLUmDlrY_" target="_blank"><b>Special Theory of Relativity</b></a><br>
 Ever wondered if light will slow down when we race with it? Let's explore the most accepted and experimentally confirmed theory which explains not just this but also how mass and time will change as a body moves. In this report, Chiranshu Taneja lays out the details of Special Theory of Relativity here.
 	<tr>
 		<td width="50%"><a href="https://drive.google.com/open?id=1hSynsw2tzJhmhGm5BBIRIdjwyMDINSYJ" target="_blank"><img src="https://drive.google.com/uc?id=1787Dvo9kGsYA5MJac6mciXoS28b0gERe"></a>
