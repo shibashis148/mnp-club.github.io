@@ -9,7 +9,7 @@ author : Kartik Patekar
 comments: true
 image:
   feature:
-date: 2020-MM-DDT20:00:00+00:00
+date: 2020-05-12T20:00:00+00:00
 ---
 Enter synopsis here
 
