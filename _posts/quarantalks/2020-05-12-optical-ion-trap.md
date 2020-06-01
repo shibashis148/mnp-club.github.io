@@ -11,7 +11,7 @@ image:
   feature:
 date: 2020-05-12T20:00:00+00:00
 ---
-Enter synopsis here
+The theoretical aspects of qubit preparation, readout, single and double qubit gates in both optical and ion-trapped QCs
 
 <!-- TYPE ARTICLE BELOW -->
 <!-- Use ### for header_1 -->
