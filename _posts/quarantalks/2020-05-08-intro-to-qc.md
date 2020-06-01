@@ -11,4 +11,4 @@ image:
   feature:
 date: 2020-05-08T20:00:00+00:00
 ---
-Enter synopsis here
+This is the text in posts quarantalks 2020 05 08 intro to qc
