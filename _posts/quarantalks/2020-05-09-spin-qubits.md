@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Enter title here
+title: Spin Qubits, NV Centres and NMR Qubits
 modified:
 categories: quarantalks
 excerpt:
-tags: [Tag 1, Tag 2]
-author : Enter author here
+tags: [MnP, summers]
+author : Parth Jatakia
 comments: true
 image:
   feature:
