@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Enter title here
+title: Optical and Ion Trap Qubits
 modified:
 categories: quarantalks
 excerpt:
-tags: [Tag 1, Tag 2]
-author : Enter author here
+tags: [MnP, summers]
+author : Kartik Patekar
 comments: true
 image:
   feature:

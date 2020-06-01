@@ -1,3 +1,4 @@
+<!-- TEMPLATE ON LINES 64-67 -->
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
@@ -60,6 +61,40 @@
 <loc>http://mnp-club.github.io/blog/flexagons/</loc>
 <lastmod>2016-05-04T15:49:07+05:30</lastmod>
 </url>
+<!-- <url>
+<loc>http://mnp-club.github.io/blog/fractals/</loc>
+<lastmod>2017-05-27T15:49:07+05:30</lastmod>
+</url> -->
+
+<url>
+<loc>http://mnp-club.github.io/quarantalks/intro-to-qc/</loc>
+<lastmod>20120-05-08T20:00:00+05:30</lastmod>
+</url>
+  <url>
+<loc>http://mnp-club.github.io/quarantalks/spin-qubits/</loc>
+<lastmod>2020-05-09T20:00:00+05:30</lastmod>
+</url>
+  <url>
+<loc>http://mnp-club.github.io/quarantalks/super-qubits/</loc>
+<lastmod>2020-05-11T20:00:00+05:30</lastmod>
+</url>
+  <url>
+<loc>http://mnp-club.github.io/quarantalks/optical-ion-trap/</loc>
+<lastmod>2020-05-12T20:00:00+05:30</lastmod>
+</url>
+  <url>
+<loc>http://mnp-club.github.io/quarantalks/mink-sums/</loc>
+<lastmod>2020-05-19T20:00:00+05:30</lastmod>
+</url>
+  <url>
+<loc>http://mnp-club.github.io/quarantalks/retro-analysis/</loc>
+<lastmod>2020-05-23T20:00:00+05:30</lastmod>
+</url>
+  <url>
+<loc>http://mnp-club.github.io/quarantalks/qhe/</loc>
+<lastmod>2020-05-28T20:00:00+05:30</lastmod>
+</url>
+
 <url>
 <loc>http://mnp-club.github.io/</loc>
 </url>
