@@ -39,3 +39,4 @@ Once you have the above packages, you can now create your own post! Just a few m
 We look forward to receiving some amazing posts from you soon!
 
 *Website has been created by Parth Jatakia ( Convener 2016-17 ) and Dhruv Shah ( Convener 2016-17 ).*
+*Contributions made by Sahil Adane ( Convener 2017-18 ), Aryaman Maithani ( Convener 2019-20 ) and Aravind Bharathi ( Convener 2020-21 ).*
