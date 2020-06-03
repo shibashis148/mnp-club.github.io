@@ -70,5 +70,3 @@ we will be posting the projects online soon, keep visiting!
       <a href="http://mnp-club.github.io/sos/sos2020/" target="_blank"><i> This </i></a>
       lorem ipsum dolor sit amet <b>lorem ipsum dolor sit amet </b>lorem ipsum dolor sit amet 
      
-</table>
-</body>

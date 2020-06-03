@@ -28,3 +28,4 @@ This section was concluded by stating that trapped ion qubits having advantages 
 (SNSPD). Although, single qubit gates are performed very easily using linear optical devices such as phase shifters and beam splitters in the case of Path encoded qubits. One of the greatest challenges is to execute a two-qubit gate as photons do not interact easily. KLM scheme uses the fact that photon detection is a non linear phenomenon and makes the implementation of two qubit gates easier.  
 This section was concluded by discussing the pros like it works on room temperature because of no coherence, easier scaling and its usefulness in the areas of quantum communication, and cons like photon loss at generation and detection and infeasibility of two qubit gates.  
 Finally, the talk and the mini series was concluded with a brief review of all types of qubits discussed.  <br/>
+<i>Kartik Patekar is a fourth year undergraduate student in the Department of Physics at IIT Bombay</i>
