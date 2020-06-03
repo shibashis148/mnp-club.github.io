@@ -9,7 +9,7 @@ convener 23:
   name: Aravind Bharathi
   image: convener23.jpg
   fblink: https://www.facebook.com/bvcxz1/
-  instalink: https://www.instagram.com/\_shadowsilver\_/
+  instalink: https://www.instagram.com/_shadowsilver_/
 convener 22:
   name: Mahadevan Subramanian
   image: convener22.jpg
@@ -24,7 +24,7 @@ convener 20:
   name: Sachin Teli
   image: convener20.jpg
   fblink: https://www.facebook.com/sachin.p.teli
-  instalink: https://www.instagram.com/\_sachinteli_/
+  instalink: https://www.instagram.com/_sachinteli_/
 convener 19:
   name: Drishti Baruah
   image: convener19.jpg
