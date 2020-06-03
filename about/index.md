@@ -5,36 +5,36 @@ excerpt: "Maths And Physics Club is"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: About_img.png
-convener 23:
+convener23:
   name: Aravind Bharathi
   image: convener23.jpg
   fblink: https://www.facebook.com/bvcxz1/
   instalink: https://www.instagram.com/_shadowsilver_/
-convener 22:
+convener22:
   name: Mahadevan Subramanian
   image: convener22.jpg
   fblink: https://www.facebook.com/profile.php?id=100010435631844
   instalink: https://www.instagram.com/maddysubro2432/
-convener 21:
+convener21:
   name: Rohinee Joshi
   image: convener21.jpg
   fblink: https://www.facebook.com/rohinee.joshi.77
   instalink: https://www.instagram.com/rohinee_joshi/
-convener 20:
+convener20:
   name: Sachin Teli
   image: convener20.jpg
   fblink: https://www.facebook.com/sachin.p.teli
   instalink: https://www.instagram.com/_sachinteli_/
-convener 19:
+convener19:
   name: Drishti Baruah
   image: convener19.jpg
   fblink: https://www.facebook.com/drishti.baruah.9
   instalink: https://www.instagram.com/drishtibaruah/
-convener 18:
+convener18:
   name: Sangraam Patwardhan
   image: convener18.jpg
   fblink: https://www.facebook.com/sangraam.patwardhan.1
-  instalink: https://www.instagram.com/mnpclub.iitb/
+  instalink: https://www.instagram.com/__sangraam__/
 manager6:
   name: Saanika Choudhary
   image: manager6.jpg
