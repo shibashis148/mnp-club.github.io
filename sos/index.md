@@ -49,12 +49,6 @@ we will be posting the projects online soon, keep visiting!
 
 
     <tr>
-      <td width="50%"><a href="http://mnp-club.github.io/sos/sos2016/" target="_blank"><img src="https://drive.google.com/uc?id=0B8NkjEMpefENMXVnTlR6dGI2YU0"></a>
-      <td> <b>2016</b><br>
-      lorem ipsum dolor sit amet <b>lorem ipsum dolor sit amet </b>lorem ipsum dolor sit amet <a href="http://mnp-club.github.io/sos/sos2017/" target="_blank"><i> here. </i></a>
-
-
-    <tr>
       <td width="50%"><a href="http://mnp-club.github.io/sos/sos2017/" target="_blank"><img src="https://drive.google.com/uc?id=0B8NkjEMpefENMXVnTlR6dGI2YU0"></a>
       <td> <b>2017</b><br>
       lorem ipsum dolor sit amet <b>lorem ipsum dolor sit amet </b>lorem ipsum dolor sit amet <a href="http://mnp-club.github.io/sos/sos2017/" target="_blank"><i> here. </i></a>
@@ -76,3 +70,7 @@ we will be posting the projects online soon, keep visiting!
       <a href="http://mnp-club.github.io/sos/sos2020/" target="_blank"><i> This </i></a>
       lorem ipsum dolor sit amet <b>lorem ipsum dolor sit amet </b>lorem ipsum dolor sit amet 
      
+     <tr>
+      <td width="50%"><a href="http://mnp-club.github.io/sos/sos2016/" target="_blank"><img src="https://drive.google.com/uc?id=0B8NkjEMpefENMXVnTlR6dGI2YU0"></a>
+      <td> <b>2016 and prior ITSP Projects</b><br>
+      lorem ipsum dolor sit amet <b>lorem ipsum dolor sit amet </b>lorem ipsum dolor sit amet <a href="http://mnp-club.github.io/sos/sos2016/" target="_blank"><i> here. </i></a>
