@@ -5,6 +5,46 @@ excerpt: "Maths And Physics Club is"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: About_img.png
+convener 23:
+  name: Aravind Bharathi
+  image: convener23.jpg
+  fblink: https://www.facebook.com/bvcxz1/
+  instalink: https://www.instagram.com/_shadowsilver_/
+convener 22:
+  name: Mahadevan Subramanian
+  image: convener22.jpg
+  fblink: https://www.facebook.com/profile.php?id=100010435631844
+  instalink: https://www.instagram.com/maddysubro2432/
+convener 21:
+  name: Rohinee Joshi
+  image: convener21.jpg
+  fblink: https://www.facebook.com/rohinee.joshi.77
+  instalink: https://www.instagram.com/rohinee_joshi/
+convener 20:
+  name: Sachin Teli
+  image: convener20.jpg
+  fblink: https://www.facebook.com/sachin.p.teli
+  instalink: https://www.instagram.com/_sachinteli_/
+convener 19:
+  name: Drishti Baruah
+  image: convener19.jpg
+  fblink: https://www.facebook.com/drishti.baruah.9
+  instalink: https://www.instagram.com/drishtibaruah/
+convener 18:
+  name: Sangraam Patwardhan
+  image: convener18.jpg
+  fblink: https://www.facebook.com/sangraam.patwardhan.1
+  instalink: https://www.instagram.com/mnpclub.iitb/
+manager6:
+  name: Saanika Choudhary
+  image: manager6.jpg
+  fblink: https://www.facebook.com/profile.php?id=100003112324282
+  instalink: https://www.instagram.com/saanikachoudhary/
+manager5:
+  name: Roshni Singh
+  image: manager5.jpg
+  fblink: https://www.facebook.com/profile.php?id=100025216554338
+  instalink: https://www.instagram.com/roshnisingh_17/
 convener17:
   name: Aryaman Maithani
   image: convener17.jpg
