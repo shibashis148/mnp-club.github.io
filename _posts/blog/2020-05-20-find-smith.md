@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brainbusters 1 - Find Smith
+title: Find Smith
 modified:
 categories: blog
 excerpt:
