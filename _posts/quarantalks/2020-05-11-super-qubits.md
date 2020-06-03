@@ -11,7 +11,7 @@ image:
   feature:
 date: 2020-05-11T20:00:00+00:00
 ---
-Enter synopsis here
+A journey through a promising platform for quantum computing to find out what makes superconducting qubits one of the most successful architectures so far, with giants like Google and IBM racing to outperform each other! Learn about the different types of superconducting qubits and the implementation of control pulses. Dive into the exotic world of topological quantum computing, which promises a robust and fault-tolerant approach to implementing a QC
 
 <!-- TYPE ARTICLE BELOW -->
 <!-- Use ### for header_1 -->
