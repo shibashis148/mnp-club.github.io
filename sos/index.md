@@ -51,12 +51,12 @@ we will be posting the projects online soon, keep visiting!
     <tr>
       <td width="50%"><a href="http://mnp-club.github.io/sos/sos2017/" target="_blank"><img src="http://mnp-club.github.io/images/physicsin2017.jpg/"></a>
       <td> <a href="http://mnp-club.github.io/sos/sos2017/" target="_blank"><b>2017</b></a><br>
-      lorem ipsum dolor sit amet <b>lorem ipsum dolor sit amet </b>lorem ipsum dolor sit amet <a href="http://mnp-club.github.io/sos/sos2017/" target="_blank"><i> here. </i></a>
+      From quantum computing to non linear dynamics, game theory to machine learning, <a href="http://mnp-club.github.io/sos/sos2017/" target="_blank"><i>here </i></a> are the reports to the buzzwords of 2017.
 
      <tr>
         <td width="50%"><a href="http://mnp-club.github.io/sos/sos2018/" target="_blank">![Lasers](/images/physicsin2018.jpg/)</a>
         <td> <a href="http://mnp-club.github.io/sos/sos2018/" target="_blank"><b>2018</b></a><br>
-        Quantum mechanics may disturb causal order, but then learning should never be stopped. <a href="http://mnp-club.github.io/sos/sos2018/" target="_blank"><i> here. </i></a>
+        Quantum mechanics may disturb causal order, but learning should never be stopped. Take a look at the other things that go against our intuition and break our world of reality <a href="http://mnp-club.github.io/sos/sos2018/" target="_blank"><i>here.</i></a>
 
 
         <tr>
