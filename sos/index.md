@@ -54,23 +54,22 @@ we will be posting the projects online soon, keep visiting!
       lorem ipsum dolor sit amet <b>lorem ipsum dolor sit amet </b>lorem ipsum dolor sit amet <a href="http://mnp-club.github.io/sos/sos2017/" target="_blank"><i> here. </i></a>
 
      <tr>
-        <td width="50%"><a href="http://mnp-club.github.io/sos/sos2018/" target="_blank"><img src="http://mnp-club.github.io/images/physicsin2018.jpg/"></a>
+        <td width="50%"><a href="http://mnp-club.github.io/sos/sos2018/" target="_blank">![Lasers](/images/physicsin2018.jpg/)</a>
         <td> <a href="http://mnp-club.github.io/sos/sos2018/" target="_blank"><b>2018</b></a><br>
         Quantum mechanics may disturb causal order, but then learning should never be stopped. <a href="http://mnp-club.github.io/sos/sos2018/" target="_blank"><i> here. </i></a>
 
 
         <tr>
-      <td width="50%"><a href="http://mnp-club.github.io/sos/sos2019/" target="_blank"><img src="http://mnp-club.github.io/images/physicsin2019.jpg/"></a>
+      <td width="50%"><a href="http://mnp-club.github.io/sos/sos2019/" target="_blank">![Black Hole](/images/physicsin2019.jpg/)</a>
       <td> <a href="http://mnp-club.github.io/sos/sos2019/" target="_blank"><b>2019</b></a><br>
       This year will go down in history as the one we <i>clicked </i>the first black hole. But it offered much more from detecting <i>marsquakes </i> to making quantum traps using the casimir effect. Look what our students read about the most <a href="http://mnp-club.github.io/sos/sos2019/" target="_blank"><i>here </i></a>
 
       <tr>
       <td width="50%"><a href="http://mnp-club.github.io/sos/sos2020/" target="_blank"><img src="http://mnp-club.github.io/images/physicsin2020.jpg/"></a>
       <td> <a href="http://mnp-club.github.io/sos/sos2020/" target="_blank"><b>2020</b></a><br>
-      <a href="http://mnp-club.github.io/sos/sos2020/" target="_blank"><i> This </i></a>
-      lorem ipsum dolor sit amet <b>lorem ipsum dolor sit amet </b>lorem ipsum dolor sit amet 
+      With over 120 mentors and 430 mentees, we had an overwhelming response. Check out what fascinated our members the most <a href="http://mnp-club.github.io/sos/sos2020/" target="_blank"><i>here</i></a>.
      
      <tr>
       <td width="50%"><a href="http://mnp-club.github.io/sos/sos2016/" target="_blank"><img src="http://mnp-club.github.io/images/physicsin2016.jpg/"></a>
       <td> <a href="http://mnp-club.github.io/sos/sos2016/" target="_blank"><b>2016 and prior ITSP Projects</b></a><br>
-      lorem ipsum dolor sit amet <b>lorem ipsum dolor sit amet </b>lorem ipsum dolor sit amet <a href="http://mnp-club.github.io/sos/sos2016/" target="_blank"><i> here. </i></a>
+      <a href="http://mnp-club.github.io/sos/sos2016/" target="_blank"><i>here</i></a>
