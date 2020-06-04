@@ -56,7 +56,7 @@ we will be posting the projects online soon, keep visiting!
      <tr>
         <td width="50%"><a href="http://mnp-club.github.io/sos/sos2018/" target="_blank"><img src="http://mnp-club.github.io/images/physicsin2018.jpg"></a>
         <td> <a href="http://mnp-club.github.io/sos/sos2018/" target="_blank"><b>2018</b></a><br>
-        Quantum mechanics may disturb causal order, but learning should never be stopped. Take a look at the other things that go against our intuition and break our world of reality <a href="http://mnp-club.github.io/sos/sos2018/" target="_blank"><i>here.</i></a>
+        Quantum mechanics may or may not disturb causal order, but learning should never be stopped. Take a look at the other things that go against our intuition and break our world of reality <a href="http://mnp-club.github.io/sos/sos2018/" target="_blank"><i>here.</i></a>
 
 
         <tr>
