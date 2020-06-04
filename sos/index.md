@@ -49,28 +49,28 @@ we will be posting the projects online soon, keep visiting!
 
 
     <tr>
-      <td width="50%"><a href="http://mnp-club.github.io/sos/sos2017/" target="_blank"><img src="https://drive.google.com/uc?id=0B8NkjEMpefENMXVnTlR6dGI2YU0"></a>
-      <td> <b>2017</b><br>
+      <td width="50%"><a href="http://mnp-club.github.io/sos/sos2017/" target="_blank"><img src="http://mnp-club.github.io/images/physicsin2017/"></a>
+      <td> <a href="http://mnp-club.github.io/sos/sos2017/" target="_blank"><b>2017</b></a><br>
       lorem ipsum dolor sit amet <b>lorem ipsum dolor sit amet </b>lorem ipsum dolor sit amet <a href="http://mnp-club.github.io/sos/sos2017/" target="_blank"><i> here. </i></a>
 
      <tr>
-        <td width="50%"><a href="http://mnp-club.github.io/sos/sos2018/" target="_blank"><img src="https://drive.google.com/uc?id=0BxzMH0g6m1NRTjJ4MHNEUnJhYnM"></a>
-        <td> <b>2018</b><br>
+        <td width="50%"><a href="http://mnp-club.github.io/sos/sos2018/" target="_blank"><img src="http://mnp-club.github.io/images/physicsin2018/"></a>
+        <td> <a href="http://mnp-club.github.io/sos/sos2018/" target="_blank"><b>2018</b></a><br>
         lorem ipsum dolor sit amet <b>lorem ipsum dolor sit amet </b>lorem ipsum dolor sit amet <a href="http://mnp-club.github.io/sos/sos2018/" target="_blank"><i> here. </i></a>
 
 
         <tr>
-      <td width="50%"><a href="http://mnp-club.github.io/sos/sos2019/" target="_blank"><img src="https://drive.google.com/uc?id=0B5ozMCkQ6td1Uk9lN0xQWnAtTFU"></a>
-      <td> <b>2019</b><br>
+      <td width="50%"><a href="http://mnp-club.github.io/sos/sos2019/" target="_blank"><img src="http://mnp-club.github.io/images/physicsin2019/"></a>
+      <td> <a href="http://mnp-club.github.io/sos/sos2019/" target="_blank"><b>2019</b></a><br>
       lorem ipsum dolor sit amet <b>lorem ipsum dolor sit amet </b>lorem ipsum dolor sit amet <a href="http://mnp-club.github.io/sos/sos2019/" target="_blank"><i> this </i></a>
 
       <tr>
-      <td width="50%"><a href="http://mnp-club.github.io/sos/sos2020/" target="_blank"><img src="https://drive.google.com/uc?id=0B7FrsA6ppePVLTRVcHlncUhGTWs"></a>
-      <td> <b>2020</b><br>
+      <td width="50%"><a href="http://mnp-club.github.io/sos/sos2020/" target="_blank"><img src="http://mnp-club.github.io/images/physicsin2020/"></a>
+      <td> <a href="http://mnp-club.github.io/sos/sos2020/" target="_blank"><b>2020</b></a><br>
       <a href="http://mnp-club.github.io/sos/sos2020/" target="_blank"><i> This </i></a>
       lorem ipsum dolor sit amet <b>lorem ipsum dolor sit amet </b>lorem ipsum dolor sit amet 
      
      <tr>
-      <td width="50%"><a href="http://mnp-club.github.io/sos/sos2016/" target="_blank"><img src="https://drive.google.com/uc?id=0B8NkjEMpefENMXVnTlR6dGI2YU0"></a>
-      <td> <b>2016 and prior ITSP Projects</b><br>
+      <td width="50%"><a href="http://mnp-club.github.io/sos/sos2016/" target="_blank"><img src="http://mnp-club.github.io/images/physicsin2016/"></a>
+      <td> <a href="http://mnp-club.github.io/sos/sos2016/" target="_blank"><b>2016 and prior ITSP Projects</b></a><br>
       lorem ipsum dolor sit amet <b>lorem ipsum dolor sit amet </b>lorem ipsum dolor sit amet <a href="http://mnp-club.github.io/sos/sos2016/" target="_blank"><i> here. </i></a>
