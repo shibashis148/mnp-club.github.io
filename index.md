@@ -16,5 +16,6 @@ All in all, we are a self-sustaining community of intellectuals, students & prof
 
 Be sure to keep a track of our upcomming events [here!]({{ '/events' | relative_url }})
 
-Also check out our Technical Summer School collaboration with the UGAC
-![/images/learnersspace.jpg](https://gymkhana.iitb.ac.in/~ugacademics/learnerspace_2020/course_details.php?course_code=16)
+Also check out our Technical Summer School collaboration with the UGAC<a href="https://gymkhana.iitb.ac.in/~ugacademics/learnerspace_2020/course_details.php?course_code=16" target="_blank"> here
+![MnP- UGAC](/images/learnersspace.jpg)
+</a>
