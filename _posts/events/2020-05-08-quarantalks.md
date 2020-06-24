@@ -15,7 +15,7 @@ status: Finished
 Howdy Fellas!
 Quarantalks is a new initiative by MnP - a series of Online Talks to help you satisfy your thirst for knowledge even during the lockdown period. Stay tuned for more interesting lectures and talks. We will be posting the link to the online talks on our Facebook and Instagram pages on the days of the talks.
 
-### Venue : Quaratined? All you need is a phone and an internet connection
+### Venue : Quarantined? All you need is a phone and an internet connection
 
 ### Date: 8th May
 
