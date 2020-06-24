@@ -15,3 +15,6 @@ The best fodder to develop oneself is a perseverant thought process, our fortnig
 All in all, we are a self-sustaining community of intellectuals, students & professors, across ages and departments, who enjoy sharing knowledge through platforms provided by our club​ and if you talk Physics and Maths, there is no better place for you than the Maths and Physics Club, IIT Bombay.
 
 Be sure to keep a track of our upcomming events [here!]({{ '/events' | relative_url }})
+
+Also check out our Technical Summer School collaboration with the UGAC
+[learnersspace.jpg](https://gymkhana.iitb.ac.in/~ugacademics/learnerspace_2020/course_details.php?course_code=16)
