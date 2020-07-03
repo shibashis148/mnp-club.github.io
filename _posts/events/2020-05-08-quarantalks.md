@@ -23,4 +23,4 @@ Quarantalks is a new initiative by MnP - a series of Online Talks to help you sa
 
 ### Time: 6:00pm
 
-To check out more click <a href="quarantalks/" target="_blank"><i>here</i></a>.
+To check out more click <a href="/quarantalks/" target="_blank"><i>here</i></a>.
