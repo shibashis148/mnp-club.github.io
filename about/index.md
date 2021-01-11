@@ -7,7 +7,7 @@ image:
   feature: About_img.png
 convener23:
   name: Aravind Bharathi
-  image: convener23.jpg
+  image: Aravind_Bharathi.jpg
   fblink: https://www.facebook.com/bvcxz1/
   instalink: https://www.instagram.com/_shadowsilver_/
 convener22:
