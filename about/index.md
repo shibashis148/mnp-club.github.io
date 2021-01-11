@@ -9,7 +9,7 @@ convener23:
   name: Aravind Bharathi
   image: convener23.jpg
   fblink: https://www.facebook.com/bvcxz1/
-  instalink: https://www.instagram.com/_shadowsilver_/
+  instalink: https://www.instagram.com/aburstofradium/
 convener22:
   name: Mahadevan Subramanian
   image: convener22.jpg
