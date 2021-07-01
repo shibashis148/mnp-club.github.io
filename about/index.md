@@ -100,21 +100,21 @@ manager3:
   fblink: https://www.facebook.com/gurukalyan.jayasingh
 convener1819_Shreehari:
   name: Sheehari Bodas
-  image: convener1819_Sheehari.jpg
+  image: conv1819_Sheehari.jpg
   fblink: https://www.facebook.com/shreehari.bodas.50/
 convener1819_Pruthak:
   name: Pruthak Joshi
-  image: convener1819_Pruthak.jpg
+  image: conv1819_Pruthak.jpg
   fblink: https://www.facebook.com/pruthak.joshi.12/
   instalink: https://www.instagram.com/pruthakj/
 convener1819_Preetam:
   name: Preetam Pinnada
-  image: convener1819_Preetam.jpg
+  image: conv1819_Preetam.jpg
   fblink: https://www.facebook.com/preetam2501/
   instalink: https://www.instagram.com/preetam2501/
 convener1819_Chaitrali:
   name: Chaitrali Duse
-  image: convener1819_Chaitrali.jpg
+  image: conv1819_Chaitrali.jpg
   fblink: https://www.facebook.com/chaitraliduse/
   instalink: https://www.instagram.com/chaitrali.duse/
 manager2:
