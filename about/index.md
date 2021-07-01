@@ -27,7 +27,7 @@ convener25:
   instalink: https://www.instagram.com/notdhawal/
 convener24:
   name: Alakh Agrawal
-  image: convener24.jpg
+  image: convener24(1).jpg
   fblink: https://www.facebook.com/AdeptAlakh/
   instalink: https://www.instagram.com/adept_alakh/
 convener23:
