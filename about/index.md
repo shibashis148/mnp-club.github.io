@@ -100,7 +100,7 @@ manager3:
   fblink: https://www.facebook.com/gurukalyan.jayasingh
 convener1819_Shreehari:
   name: Sheehari Bodas
-  image: conv1819_Sheehari.jpg
+  image: conv1819_Shreehari.jpg
   fblink: https://www.facebook.com/shreehari.bodas.50/
 convener1819_Pruthak:
   name: Pruthak Joshi
