@@ -5,6 +5,31 @@ excerpt: "Maths And Physics Club is"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: About_img.png
+convener28:
+  name: Tharun Mahesh
+  image: convener28.jpg
+  fblink: https://www.facebook.com/tharun.mahesh.90/
+  instalink: https://www.instagram.com/tharun_mah3sh/
+convener27:
+  name: Ronak Matai
+  image: convener27.jpg
+  fblink: https://www.facebook.com/ronak.matai/
+  instalink: https://www.instagram.com/ronakmatai_02/
+convener26:
+  name: Palak Vora
+  image: convener26.jpg
+  fblink: https://www.facebook.com/palak.vora.1800/
+  instalink: https://www.instagram.com/palakvora21/
+convener25:
+  name: Dhawal Singh
+  image: convener25.jpg
+  fblink: https://www.facebook.com/dhawal.singh.524/
+  instalink: https://www.instagram.com/notdhawal/
+convener24:
+  name: Alakh Agrawal
+  image: convener24.jpg
+  fblink: https://www.facebook.com/AdeptAlakh/
+  instalink: https://www.instagram.com/adept_alakh/
 convener23:
   name: Aravind Bharathi
   image: convener23.jpg
@@ -73,6 +98,25 @@ manager3:
   name: Guru Kalyan
   image: manager3.jpg
   fblink: https://www.facebook.com/gurukalyan.jayasingh
+convener1819_Shreehari:
+  name: Sheehari Bodas
+  image: convener1819_Sheehari.jpg
+  fblink: https://www.facebook.com/shreehari.bodas.50/
+convener1819_Pruthak:
+  name: Pruthak Joshi
+  image: convener1819_Pruthak.jpg
+  fblink: https://www.facebook.com/pruthak.joshi.12/
+  instalink: https://www.instagram.com/pruthakj/
+convener1819_Preetam:
+  name: Preetam Pinnada
+  image: convener1819_Preetam.jpg
+  fblink: https://www.facebook.com/preetam2501/
+  instalink: https://www.instagram.com/preetam2501/
+convener1819_Chaitrali:
+  name: Chaitrali Duse
+  image: convener1819_Chaitrali.jpg
+  fblink: https://www.facebook.com/chaitraliduse/
+  instalink: https://www.instagram.com/chaitrali.duse/
 manager2:
   name: Sandesh Kalantre
   image: manager2.jpg
