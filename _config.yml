@@ -5,7 +5,7 @@ locale: India
 description: Where Knowledge is Free...
 logo: site-logo.png
 search: true
-url: http://mnp-club.github.io
+url: https://mnp-club.github.io
 
 # Jekyll configuration
 
@@ -54,7 +54,7 @@ owner:
   email: mnpclub.iitb@gmail.com
   facebook: mnpiitb
   github: mnp-club
-  stackexchange: #http://stackoverflow.com/users/123456/username
+  stackexchange: #https://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: mnpclub.iitb
   flickr: #username
