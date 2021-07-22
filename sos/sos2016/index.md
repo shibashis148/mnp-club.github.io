@@ -49,15 +49,15 @@ tr:nth-child(even) {
         You can find the abstract, documentation and other links <a href="https://drive.google.com/folderview?id=0B1Vk8narhavEWE5pUm5UdE9DYTg&usp=sharing" target="_blank"><i>here!</i></a>
     </td>
   <tr>
-    <td width="50%"><a href="https://drive.google.com/open?id=0BzrafcdwRhiEa3F0bXBFOXJlY1U" target="_blank"><img src="http://masterblogster.com/wp-content/uploads/2013/08/Google-Page-Rank-Prediction-Tools.png"></a>
+    <td width="50%"><a href="https://drive.google.com/open?id=0BzrafcdwRhiEa3F0bXBFOXJlY1U" target="_blank"><img src="https://masterblogster.com/wp-content/uploads/2013/08/Google-Page-Rank-Prediction-Tools.png"></a>
     <td> <b>Google's PageRank Algorithm - ITSP 2016</b><br>
     Ever wondered how search engines work, and what goes behind it providing the correct results almost every time? <b>Pulkit Sareen</b> explores Google's PageRank algorithm and how it works! You can find a detailed report on his findings <a href="https://drive.google.com/open?id=0BzrafcdwRhiEa3F0bXBFOXJlY1U" target="_blank"><i> here. </i></a>
   <tr>
-    <td width="50%"><a href= "https://drive.google.com/open?id=0BzrafcdwRhiERDl0SHdBWlh5Qmc" target="_blank"><img src="http://hd.wallpaperswide.com/thumbs/processors-t2.jpg"></a>
+    <td width="50%"><a href= "https://drive.google.com/open?id=0BzrafcdwRhiERDl0SHdBWlh5Qmc" target="_blank"><img src="https://hd.wallpaperswide.com/thumbs/processors-t2.jpg"></a>
     <td><b>Computer Architecture - SoS 2016</b><br>
     We use microprocessors in different forms for our daily necessities. But what goes inside such a processor? <b>Dhruv Shah</b> explores how processors are built from the basics of digital electronics and how the complex systems fit in their places. A detailed report of his findings can be found <a href="https://drive.google.com/open?id=0BzrafcdwRhiERDl0SHdBWlh5Qmc" target="_blank"><i>here!</i></a>
   <tr>
-    <td width="50%"><a href= "https://drive.google.com/open?id=0BzrafcdwRhiEU2toOW9qNnRJQ0k" target="_blank"><img src="http://astrosociety.org/wp-content/uploads/2012/10/1-CMB_Timeline300_no_WMAP.jpg"></a>
+    <td width="50%"><a href= "https://drive.google.com/open?id=0BzrafcdwRhiEU2toOW9qNnRJQ0k" target="_blank"><img src="https://astrosociety.org/wp-content/uploads/2012/10/1-CMB_Timeline300_no_WMAP.jpg"></a>
     <td><b>Cosmology - SoS 2016</b><br>
     Ever looked up at the sky and wondered how it all came to be? How all of the universe began in the first place? And why things out there are the way they are? <b>Thariq Shanavas</b> explores the fascinating and mysterious world of Cosmology, all the way from the Big Bang, to the flatness of the universe - down to the possibility of Big Crunch! You can find an interesting report to read <a href="https://drive.google.com/open?id=0BzrafcdwRhiEU2toOW9qNnRJQ0k" target="_blank"><i>here!</i></a>
 
@@ -75,7 +75,7 @@ tr:nth-child(even) {
 
   <tr>
     <td width="50%"><a href= "https://drive.google.com/open?id=0BzrafcdwRhiEbWRHUGFFZlhUeFk
-    " target="_blank"><img src="http://www.physics.drexel.edu/~vogeley/SpecialRel/einstein.jpg"></a>
+    " target="_blank"><img src="https://www.physics.drexel.edu/~vogeley/SpecialRel/einstein.jpg"></a>
     <td><b>Special Theory of Relativity - SoS 2016</b><br>
     Special relativity has replaced the conventional notion of an absolute universal time with the notion of a time that is dependent on reference frame and spatial position. <b>Rittick Roy</b> explored this exciting field of science in his report, which can be found <a href="https://drive.google.com/open?id=0BzrafcdwRhiEbWRHUGFFZlhUeFk
     " target="_blank"><i>here!</i>
