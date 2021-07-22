@@ -38,7 +38,7 @@ tr:nth-child(even) {
 
 
 <br>
-Summer of Science is an initiative by the Maths and Physics Club, to encourage, and help discover, the joy of learning. To know more, click <a href="http://mnp-club.github.io/blog/summer-of-science/">here!</a> and
+Summer of Science is an initiative by the Maths and Physics Club, to encourage, and help discover, the joy of learning. To know more, click <a href="https://mnp-club.github.io/blog/summer-of-science/">here!</a> and
 we will be posting the projects online soon, keep visiting!
 
 <br>
