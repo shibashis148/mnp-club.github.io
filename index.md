@@ -17,4 +17,4 @@ All in all, we are a self-sustaining community of intellectuals, students & prof
 Be sure to keep a track of our upcomming events [here!]({{ '/events' | relative_url }})
 
 <!-- ![MnP- UGAC](/images/learnersspace.jpg) -->
-</a>
+
