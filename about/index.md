@@ -196,9 +196,18 @@ member5:
 
 
 ---
-### **Crypt Hunt**
-
-_In the summer where the solution for the two equations for sum of cubes were solved, instizens were upto something scientifically fabulous. Enter the name of the picture with 7 donuts and mugs_
+<div class="container-fluid my-5 " style="position: relative!important;margin-bottom:20px">
+            <center>
+                <div class=" text-white" style="max-width: 400px;">
+                    <h3 class="text-danger"><b>Crypt Hunt</b></h3>
+                    <div class="">
+        <i style="font-size: large;">
+   In the summer where the solution for the two equations for sum of cubes were solved, instizens were upto something scientifically  fabulous. Enter the name of the picture with 7 donuts and mugs
+        </i>
+                    </div>
+                </div>
+             </center>
+           </div>
 
 
 The Maths and Physics Club of IIT Bombay, is a community to celebrate the sciences we revere in their purest of forms, undiluted and in all their grandeur. We cater to stimulate your brains with the best intellectual events, quizzes, symposiums, lectures & to keep the streak of curiosity level with knowledge by introducing you to labs in and off the campus with exquisite research work and setting you off to build your own experimental setups, funded by us.
