@@ -196,6 +196,11 @@ member5:
 
 
 ---
+### **Crypt Hunt**
+
+_In the summer where the solution for the two equations for sum of cubes were solved, instizens were upto something scientifically fabulous. Enter the name of the picture with 7 donuts and mugs_
+
+
 The Maths and Physics Club of IIT Bombay, is a community to celebrate the sciences we revere in their purest of forms, undiluted and in all their grandeur. We cater to stimulate your brains with the best intellectual events, quizzes, symposiums, lectures & to keep the streak of curiosity level with knowledge by introducing you to labs in and off the campus with exquisite research work and setting you off to build your own experimental setups, funded by us.
 
 The best fodder to develop oneself is a perseverant thought process, our fortnightly group discussion sessions (popularly abbreviated to GDs) and exclusive documentary screenings leave you with ancillary knowledge and questions to let in those science loving bees in your bonnet. And for those dulled by methodical cakewalk problems, we have a purely conceptual flagship quiz event, Bazinga!, followed by our very own Mathematics Olympiad and Logic General Championship to the delight of connoisseurs of pure reason.
